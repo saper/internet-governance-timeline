@@ -31,6 +31,101 @@
                 </g>
                 <text x="22" y="168" fill="#000000" font-family="Helvetica" font-size="12px" font-weight="bold">** Right Click in each (not all yet) box and go for "open link" to see event's agendas and report </text>
         </g>
+	<g id="timeline">
+		<g id="timeline-year-2013">
+			<text x="243" y="199" fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">2013</text>
+			<path d="M 228 213 C 228 212 229 211 231 211 L 318 211 L 327 218 C 327 218 327 219 327 219 L 318 226 L 231 226 C 229 226 228 225 228 223 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
+			<g text-anchor="middle" font-size="8px">
+			    <text x="273" y="220" fill="#ffffff" font-family="Helvetica">Feb</text>
+			</g>
+			<path d="M 328 214 C 328 213 329 211 331 211 L 418 211 L 427 218 C 427 219 427 219 427 220 L 418 226 L 331 226 C 329 226 328 225 328 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
+			<g text-anchor="middle" font-size="8px">
+			    <text x="373" y="221" fill="#ffffff" font-family="Helvetica">Mar</text>
+			</g>
+			<path d="M 428 214 C 428 213 429 211 431 211 L 518 211 L 527 218 C 527 219 527 219 527 220 L 518 226 L 431 226 C 429 226 428 225 428 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
+			<g text-anchor="middle" font-size="8px">
+			    <text x="473" y="221" fill="#ffffff" font-family="Helvetica">April</text>
+			</g>
+			<path d="M 531 214 C 531 213 532 211 533 211 L 621 211 L 630 218 C 630 219 630 219 630 220 L 621 226 L 533 226 C 532 226 531 225 531 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
+			<g text-anchor="middle" font-size="8px">
+			    <text x="576" y="221" fill="#ffffff" font-family="Helvetica">May</text>
+			</g>
+			<path d="M 633 214 C 633 213 634 211 636 211 L 723 211 L 732 218 C 732 219 732 219 732 220 L 723 226 L 636 226 C 634 226 633 225 633 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
+			<g text-anchor="middle" font-size="8px">
+			    <text x="678" y="221" fill="#ffffff" font-family="Helvetica">June</text>
+			</g>
+			<path d="M 733 214 C 733 213 734 211 736 211 L 823 211 L 832 218 C 832 219 832 219 832 220 L 823 226 L 736 226 C 734 226 733 225 733 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
+			<g text-anchor="middle" font-size="8px">
+			    <text x="778" y="221" fill="#ffffff" font-family="Helvetica">July</text>
+			</g>
+			<path d="M 833 214 C 833 213 834 211 836 211 L 923 211 L 932 218 C 932 219 932 219 932 220 L 923 226 L 836 226 C 834 226 833 225 833 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
+			<g text-anchor="middle" font-size="8px">
+			    <text x="878" y="221" fill="#ffffff" font-family="Helvetica">Aug</text>
+			</g>
+			<path d="M 933 214 C 933 213 934 211 936 211 L 1023 211 L 1032 218 C 1032 219 1032 219 1032 220 L 1023 226 L 936 226 C 934 226 933 225 933 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
+			<g text-anchor="middle" font-size="8px">
+			    <text x="978" y="221" fill="#ffffff" font-family="Helvetica">Sept</text>
+			</g>
+			<path d="M 1033 214 C 1033 213 1034 211 1036 211 L 1123 211 L 1132 218 C 1132 219 1132 219 1132 220 L 1123 226 L 1036 226 C 1034 226 1033 225 1033 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
+			<g text-anchor="middle" font-size="8px">
+			    <text x="1078" y="221" fill="#ffffff" font-family="Helvetica">Oct</text>
+			</g>
+			<path d="M 1133 214 C 1133 213 1134 211 1136 211 L 1223 211 L 1232 218 C 1232 219 1232 219 1232 220 L 1223 226 L 1136 226 C 1134 226 1133 225 1133 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
+			<g text-anchor="middle" font-size="8px">
+			    <text x="1178" y="221" fill="#ffffff" font-family="Helvetica">Nov</text>
+			</g>
+			<path d="M 1233 213 C 1233 212 1234 211 1236 211 L 1323 211 L 1332 218 C 1332 218 1332 219 1332 219 L 1323 226 L 1236 226 C 1234 226 1233 225 1233 223 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
+			<g text-anchor="middle" font-size="8px">
+			    <text x="1278" y="220" fill="#ffffff" font-family="Helvetica">Dec</text>
+			</g>
+		</g>
+		<g id="timeline-year-2014">
+			<text x="1335" y="191" fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">2014</text>
+			<path d="M 1333 213 C 1333 212 1334 211 1336 211 L 1423 211 L 1432 218 C 1432 218 1432 219 1432 219 L 1423 226 L 1336 226 C 1334 226 1333 225 1333 223 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
+			<g text-anchor="middle" font-size="8px">
+			    <text x="1378" y="220" fill="#ffffff" font-family="Helvetica">Jan</text>
+			</g>
+			<path d="M 1433 213 C 1433 212 1434 211 1436 211 L 1523 211 L 1532 218 C 1532 218 1532 219 1532 219 L 1523 226 L 1436 226 C 1434 226 1433 225 1433 223 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
+			<g text-anchor="middle" font-size="8px">
+			    <text x="1478" y="220" fill="#ffffff" font-family="Helvetica">Feb</text>
+			</g>
+			<path d="M 1533 213 C 1533 212 1534 211 1536 211 L 1623 211 L 1632 218 C 1632 218 1632 219 1632 219 L 1623 226 L 1536 226 C 1534 226 1533 225 1533 223 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
+			<g text-anchor="middle" font-size="8px">
+			    <text x="1578" y="220" fill="#ffffff" font-family="Helvetica">Mar</text>
+			</g>
+			<path d="M 1633 214 C 1633 213 1634 211 1636 211 L 1723 211 L 1732 218 C 1732 219 1732 219 1732 220 L 1723 226 L 1636 226 C 1634 226 1633 225 1633 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
+			<g text-anchor="middle" font-size="8px">
+			    <text x="1678" y="221" fill="#ffffff" font-family="Helvetica">April</text>
+			</g>
+			<path d="M 1733 214 C 1733 213 1734 211 1736 211 L 1823 211 L 1832 218 C 1832 219 1832 219 1832 220 L 1823 226 L 1736 226 C 1734 226 1733 225 1733 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
+			<g text-anchor="middle" font-size="8px">
+			    <text x="1778" y="221" fill="#ffffff" font-family="Helvetica">May</text>
+			</g>
+			<path d="M 1833 214 C 1833 213 1834 211 1836 211 L 1923 211 L 1932 218 C 1932 219 1932 219 1932 220 L 1923 226 L 1836 226 C 1834 226 1833 225 1833 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
+			<g text-anchor="middle" font-size="8px">
+			    <text x="1878" y="221" fill="#ffffff" font-family="Helvetica">June</text>
+			</g>
+			<path d="M 1933 214 C 1933 213 1934 211 1936 211 L 2023 211 L 2032 218 C 2032 219 2032 219 2032 220 L 2023 226 L 1936 226 C 1934 226 1933 225 1933 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
+			<g text-anchor="middle" font-size="8px">
+			    <text x="1978" y="221" fill="#ffffff" font-family="Helvetica">July</text>
+			</g>
+			<path d="M 2033 214 C 2033 213 2034 211 2036 211 L 2123 211 L 2132 218 C 2132 219 2132 219 2132 220 L 2123 226 L 2036 226 C 2034 226 2033 225 2033 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
+			<g text-anchor="middle" font-size="8px">
+			    <text x="2078" y="221" fill="#ffffff" font-family="Helvetica">Aug</text>
+			</g>
+			<path d="M 2133 213 C 2133 212 2134 211 2136 211 L 2223 211 L 2232 218 C 2232 218 2232 219 2232 219 L 2223 226 L 2136 226 C 2134 226 2133 225 2133 223 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/><g text-anchor="middle" font-size="8px"><text x="2178" y="220" fill="#ffffff" font-family="Helvetica">Sept</text>
+			</g>
+			<path d="M 2233 214 C 2233 213 2234 211 2236 211 L 2323 211 L 2332 218 C 2332 219 2332 219 2332 220 L 2323 226 L 2236 226 C 2234 226 2233 225 2233 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/><g text-anchor="middle" font-size="8px"><text x="2278" y="221" fill="#ffffff" font-family="Helvetica">Oct</text>
+			</g>
+			<path d="M 2333 213 C 2333 212 2334 211 2336 211 L 2423 211 L 2432 218 C 2432 218 2432 219 2432 219 L 2423 226 L 2336 226 C 2334 226 2333 225 2333 223 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/><g text-anchor="middle" font-size="8px"><text x="2378" y="220" fill="#ffffff" font-family="Helvetica">Nov</text>
+			</g>
+			<path d="M 2433 213 C 2433 212 2434 211 2436 211 L 2523 211 L 2532 218 C 2532 218 2532 219 2532 219 L 2523 226 L 2436 226 C 2434 226 2433 225 2433 223 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/><g text-anchor="middle" font-size="8px"><text x="2478" y="220" fill="#ffffff" font-family="Helvetica">Dec</text>
+			</g>
+		</g>
+		<g id="timeline-year-2015">
+			<text x="2533" y="191" fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">2015</text>
+		</g>
+	</g>
         <rect x="988" y="245" width="303" height="130" rx="20" ry="20" fill="#e6e6e6" stroke="#000000" pointer-events="none"/>
         <rect x="566" y="712" width="50" height="30" rx="5" ry="5" fill="#007fff" stroke="#000000" pointer-events="none"/>
         <!--<g text-anchor="middle" font-size="10px">
@@ -64,14 +159,6 @@
                 <text x="48" y="20" fill="#F7F7F7" text-anchor="middle" font-size="12px" font-family="Helvetica" font-weight="bold">[Object]</text>
             </switch>
         </g>
-        <path d="M 228 213 C 228 212 229 211 231 211 L 318 211 L 327 218 C 327 218 327 219 327 219 L 318 226 L 231 226 C 229 226 228 225 228 223 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
-        <g text-anchor="middle" font-size="8px">
-            <text x="273" y="220" fill="#ffffff" font-family="Helvetica">Feb</text>
-
-        </g>
-        <text x="243" y="199" fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">2013</text>
-        <text x="1335" y="191" fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">2014</text>
-        <text x="2533" y="191" fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">2015</text>
         <rect x="575" y="465" width="50" height="30" rx="5" ry="5" fill="#999999" stroke="#000000" pointer-events="none"/>
         <!--<g text-anchor="middle" font-size="10px">
                 <text x="600" y="477" fill="#000000" font-family="Helvetica" font-weight="bold">WGEC</text>
@@ -257,86 +344,6 @@
                 </foreignObject>
                 <text x="29" y="17" fill="#000000" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
             </switch>
-        </g>
-        <path d="M 328 214 C 328 213 329 211 331 211 L 418 211 L 427 218 C 427 219 427 219 427 220 L 418 226 L 331 226 C 329 226 328 225 328 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
-        <g text-anchor="middle" font-size="8px">
-            <text x="373" y="221" fill="#ffffff" font-family="Helvetica">Mar</text>
-        </g>
-        <path d="M 428 214 C 428 213 429 211 431 211 L 518 211 L 527 218 C 527 219 527 219 527 220 L 518 226 L 431 226 C 429 226 428 225 428 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
-        <g text-anchor="middle" font-size="8px">
-            <text x="473" y="221" fill="#ffffff" font-family="Helvetica">April</text>
-        </g>
-        <path d="M 531 214 C 531 213 532 211 533 211 L 621 211 L 630 218 C 630 219 630 219 630 220 L 621 226 L 533 226 C 532 226 531 225 531 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
-        <g text-anchor="middle" font-size="8px">
-            <text x="576" y="221" fill="#ffffff" font-family="Helvetica">May</text>
-        </g>
-        <path d="M 633 214 C 633 213 634 211 636 211 L 723 211 L 732 218 C 732 219 732 219 732 220 L 723 226 L 636 226 C 634 226 633 225 633 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
-        <g text-anchor="middle" font-size="8px">
-            <text x="678" y="221" fill="#ffffff" font-family="Helvetica">June</text>
-        </g>
-        <path d="M 733 214 C 733 213 734 211 736 211 L 823 211 L 832 218 C 832 219 832 219 832 220 L 823 226 L 736 226 C 734 226 733 225 733 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
-        <g text-anchor="middle" font-size="8px">
-            <text x="778" y="221" fill="#ffffff" font-family="Helvetica">July</text>
-        </g>
-        <path d="M 833 214 C 833 213 834 211 836 211 L 923 211 L 932 218 C 932 219 932 219 932 220 L 923 226 L 836 226 C 834 226 833 225 833 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
-        <g text-anchor="middle" font-size="8px">
-            <text x="878" y="221" fill="#ffffff" font-family="Helvetica">Aug</text>
-        </g>
-        <path d="M 933 214 C 933 213 934 211 936 211 L 1023 211 L 1032 218 C 1032 219 1032 219 1032 220 L 1023 226 L 936 226 C 934 226 933 225 933 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
-        <g text-anchor="middle" font-size="8px">
-            <text x="978" y="221" fill="#ffffff" font-family="Helvetica">Sept</text>
-        </g>
-        <path d="M 1033 214 C 1033 213 1034 211 1036 211 L 1123 211 L 1132 218 C 1132 219 1132 219 1132 220 L 1123 226 L 1036 226 C 1034 226 1033 225 1033 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
-        <g text-anchor="middle" font-size="8px">
-            <text x="1078" y="221" fill="#ffffff" font-family="Helvetica">Oct</text>
-        </g>
-        <path d="M 1133 214 C 1133 213 1134 211 1136 211 L 1223 211 L 1232 218 C 1232 219 1232 219 1232 220 L 1223 226 L 1136 226 C 1134 226 1133 225 1133 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
-        <g text-anchor="middle" font-size="8px">
-            <text x="1178" y="221" fill="#ffffff" font-family="Helvetica">Nov</text>
-        </g>
-        <path d="M 1233 213 C 1233 212 1234 211 1236 211 L 1323 211 L 1332 218 C 1332 218 1332 219 1332 219 L 1323 226 L 1236 226 C 1234 226 1233 225 1233 223 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
-        <g text-anchor="middle" font-size="8px">
-            <text x="1278" y="220" fill="#ffffff" font-family="Helvetica">Dec</text>
-        </g>
-        <path d="M 1333 213 C 1333 212 1334 211 1336 211 L 1423 211 L 1432 218 C 1432 218 1432 219 1432 219 L 1423 226 L 1336 226 C 1334 226 1333 225 1333 223 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
-        <g text-anchor="middle" font-size="8px">
-            <text x="1378" y="220" fill="#ffffff" font-family="Helvetica">Jan</text>
-        </g>
-        <path d="M 1433 213 C 1433 212 1434 211 1436 211 L 1523 211 L 1532 218 C 1532 218 1532 219 1532 219 L 1523 226 L 1436 226 C 1434 226 1433 225 1433 223 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
-        <g text-anchor="middle" font-size="8px">
-            <text x="1478" y="220" fill="#ffffff" font-family="Helvetica">Feb</text>
-        </g>
-        <path d="M 1533 213 C 1533 212 1534 211 1536 211 L 1623 211 L 1632 218 C 1632 218 1632 219 1632 219 L 1623 226 L 1536 226 C 1534 226 1533 225 1533 223 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
-        <g text-anchor="middle" font-size="8px">
-            <text x="1578" y="220" fill="#ffffff" font-family="Helvetica">Mar</text>
-        </g>
-        <path d="M 1633 214 C 1633 213 1634 211 1636 211 L 1723 211 L 1732 218 C 1732 219 1732 219 1732 220 L 1723 226 L 1636 226 C 1634 226 1633 225 1633 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
-        <g text-anchor="middle" font-size="8px">
-            <text x="1678" y="221" fill="#ffffff" font-family="Helvetica">April</text>
-        </g>
-        <path d="M 1733 214 C 1733 213 1734 211 1736 211 L 1823 211 L 1832 218 C 1832 219 1832 219 1832 220 L 1823 226 L 1736 226 C 1734 226 1733 225 1733 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
-        <g text-anchor="middle" font-size="8px">
-            <text x="1778" y="221" fill="#ffffff" font-family="Helvetica">May</text>
-        </g>
-        <path d="M 1833 214 C 1833 213 1834 211 1836 211 L 1923 211 L 1932 218 C 1932 219 1932 219 1932 220 L 1923 226 L 1836 226 C 1834 226 1833 225 1833 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
-        <g text-anchor="middle" font-size="8px">
-            <text x="1878" y="221" fill="#ffffff" font-family="Helvetica">June</text>
-        </g>
-        <path d="M 1933 214 C 1933 213 1934 211 1936 211 L 2023 211 L 2032 218 C 2032 219 2032 219 2032 220 L 2023 226 L 1936 226 C 1934 226 1933 225 1933 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
-        <g text-anchor="middle" font-size="8px">
-            <text x="1978" y="221" fill="#ffffff" font-family="Helvetica">July</text>
-        </g>
-        <path d="M 2033 214 C 2033 213 2034 211 2036 211 L 2123 211 L 2132 218 C 2132 219 2132 219 2132 220 L 2123 226 L 2036 226 C 2034 226 2033 225 2033 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
-        <g text-anchor="middle" font-size="8px">
-            <text x="2078" y="221" fill="#ffffff" font-family="Helvetica">Aug</text>
-        </g>
-        <path d="M 2133 213 C 2133 212 2134 211 2136 211 L 2223 211 L 2232 218 C 2232 218 2232 219 2232 219 L 2223 226 L 2136 226 C 2134 226 2133 225 2133 223 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/><g text-anchor="middle" font-size="8px"><text x="2178" y="220" fill="#ffffff" font-family="Helvetica">Sept</text>
-        </g>
-        <path d="M 2233 214 C 2233 213 2234 211 2236 211 L 2323 211 L 2332 218 C 2332 219 2332 219 2332 220 L 2323 226 L 2236 226 C 2234 226 2233 225 2233 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/><g text-anchor="middle" font-size="8px"><text x="2278" y="221" fill="#ffffff" font-family="Helvetica">Oct</text>
-        </g>
-        <path d="M 2333 213 C 2333 212 2334 211 2336 211 L 2423 211 L 2432 218 C 2432 218 2432 219 2432 219 L 2423 226 L 2336 226 C 2334 226 2333 225 2333 223 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/><g text-anchor="middle" font-size="8px"><text x="2378" y="220" fill="#ffffff" font-family="Helvetica">Nov</text>
-        </g>
-        <path d="M 2433 213 C 2433 212 2434 211 2436 211 L 2523 211 L 2532 218 C 2532 218 2532 219 2532 219 L 2523 226 L 2436 226 C 2434 226 2433 225 2433 223 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/><g text-anchor="middle" font-size="8px"><text x="2478" y="220" fill="#ffffff" font-family="Helvetica">Dec</text>
         </g>
         <path d="M 817 670 L 1068 670" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
         <path d="M 1073 670 L 1066 673 L 1068 670 L 1066 666 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
