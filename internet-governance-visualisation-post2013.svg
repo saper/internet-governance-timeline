@@ -70,15 +70,9 @@
             <text x="273" y="220" fill="#ffffff" font-family="Helvetica">Feb</text>
 
         </g>
-        <g font-size="12px">
-            <text x="243" y="199" fill="#000000" font-family="Helvetica" font-weight="bold">2013</text>
-        </g>
-        <g font-size="12px">
-            <text x="1335" y="191" fill="#000000" font-family="Helvetica" font-weight="bold">2014</text>
-        </g>
-        <g font-size="12px">
-            <text x="2533" y="191" fill="#000000" font-family="Helvetica" font-weight="bold">2015</text>
-        </g>
+        <text x="243" y="199" fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">2013</text>
+        <text x="1335" y="191" fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">2014</text>
+        <text x="2533" y="191" fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">2015</text>
         <rect x="575" y="465" width="50" height="30" rx="5" ry="5" fill="#999999" stroke="#000000" pointer-events="none"/>
         <!--<g text-anchor="middle" font-size="10px">
                 <text x="600" y="477" fill="#000000" font-family="Helvetica" font-weight="bold">WGEC</text>
