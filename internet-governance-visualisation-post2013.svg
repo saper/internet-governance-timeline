@@ -158,7 +158,7 @@ a { fill:blue; text-decoration: underline; }
                 <foreignObject pointer-events="all" width="96" height="28" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                     <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 14px; vertical-align: top; width: 96px; white-space: normal; font-weight: bold; text-align: center;">ITU <br />process</div>
                 </foreignObject>
-                <text x="48" y="20" fill="#FFFFFF" text-anchor="middle" font-size="12px" font-family="Helvetica" font-weight="bold">[Object]</text>
+                <text x="48" y="20" fill="#FFFFFF" text-anchor="middle" font-size="12px" font-family="Helvetica" font-weight="bold">[ITU Process]</text>
             </switch>
         </g>
         <rect x="14" y="605" width="100" height="54" fill="#cce5ff" stroke="#000000" pointer-events="none"/>
@@ -246,7 +246,7 @@ a { fill:blue; text-decoration: underline; }
                 <foreignObject pointer-events="all" width="100" height="29" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                     <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 12px; vertical-align: top; width: 100px; white-space: normal; font-weight: bold; text-align: center;"><a href="http://www.itu.int/wsis/review/inc/docs/WSIS10_Visioning_Challenge-V4.pdf">WSIS process UNESCO/ITU </a></div>
                 </foreignObject>
-                <text x="63" y="617" fill="#000000" font-family="Helvetica">[Object]</text>
+                <text x="63" y="617" fill="#000000" font-family="Helvetica">[WSIS process UNESCO/ITU]</text>
             </switch>
         </g>
         <g transform="translate(13,635)" text-anchor="middle" font-size="9px">
@@ -286,7 +286,7 @@ a { fill:blue; text-decoration: underline; }
                 <foreignObject pointer-events="all" width="100" height="40" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                     <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 12px; vertical-align: top; width: 100px; white-space: normal; font-weight: bold; text-align: center;"><a style="color:#FFF" href="http://www.itu.int/en/wtpf-13/Pages/default.aspx">WTDC<br />March 30 - April 11</a></div>
                 </foreignObject>
-                <text x="63" y="617" fill="#000000" font-family="Helvetica">[Object]</text>
+                <text x="63" y="617" fill="#000000" font-family="Helvetica">[WTDC]</text>
             </switch>
         </g>
         <path d="M 616 727 L 1622 727 Q 1632 727 1632 726 L 1632 725" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
@@ -935,7 +935,7 @@ a { fill:blue; text-decoration: underline; }
                 <foreignObject pointer-events="all" width="110" height="60" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                     <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 12px; vertical-align: top; width: 110px; white-space: normal; font-weight: bold; text-align: center;"><a style="color:#FFF" href="http://www.itu.int/en/ITU-D/Conferences/TDAG/Pages/default.aspx">Telecommunication Development Advisory Group (TDAG) 18th session Dec 11-3</a></div>
                 </foreignObject>
-                <text x="55" y="35" fill="#FFFFFF" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
+                <text x="55" y="35" fill="#FFFFFF" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">Telecommunication Development Advisory Group (TDAG) 18th session Dec 11-3</text>
             </switch>
         </g>
         <path d="M 1403 810 L 1403 796" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
@@ -948,7 +948,7 @@ a { fill:blue; text-decoration: underline; }
                 <foreignObject pointer-events="all" width="96" height="42" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                     <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 14px; vertical-align: top; width: 96px; white-space: normal; font-weight: bold; text-align: center;">UNITED <br />NATIONS<br />GA/ECOSOC</div>
                 </foreignObject>
-                <text x="48" y="27" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica" font-weight="bold">[Object]</text>
+                <text x="48" y="27" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica" font-weight="bold">UNITED NATIONS GA/ECOSOC</text>
             </switch>
         </g>
 </svg>    
