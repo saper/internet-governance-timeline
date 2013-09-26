@@ -10,6 +10,11 @@
 		<text x="21" y="55" fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">Instructions</text>
 		<rect x="21" y="59" width="280" height="91" fill="#ffffff" stroke="#000000" pointer-events="none"/>
                 <text x="22" y="168" fill="#000000" font-family="Helvetica" font-size="12px" font-weight="bold">** Right Click in each (not all yet) box and go for "open link" to see event's agendas and report </text>
+		<g id="direct-info-arrow">
+			<path d="M 30 83 L 60 83" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+			<path d="M 65 83 L 58 87 L 60 83 L 58 80 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+			<text x="81" y="89" fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">Direct Relation</text>
+		</g>
 		<g id="indirect-info-arrow">
 			<path d="M 31 127 L 61 127" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
 			<path d="M 66 127 L 59 131 L 61 127 L 59 124 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
@@ -980,8 +985,6 @@
                 <text x="48" y="27" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica" font-weight="bold">[Object]</text>
             </switch>
         </g>
-        <path d="M 30 83 L 60 83" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
-        <path d="M 65 83 L 58 87 L 60 83 L 58 80 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
         <rect x="188" y="73" width="30" height="23" rx="3" ry="3" fill="#ffffff" stroke="#000000" pointer-events="none"/>
         <g transform="translate(188,73)">
             <switch>
@@ -997,5 +1000,4 @@
             <text x="229" y="87" fill="#000000" font-family="Helvetica" font-weight="bold">Meetings</text>
             <text x="229" y="129" fill="#000000" font-family="Helvetica" font-weight="bold">Documents</text>
         </g>
-		<text x="81" y="89" fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">Direct Relation</text>
 </svg>    
