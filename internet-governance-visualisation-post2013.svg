@@ -1,4 +1,7 @@
 <svg id="svg" xmlns="http://www.w3.org/2000/svg" width="2592px" height="1260px" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" style="background-color: rgb(255, 255, 255); zoom: 1;">
+<style type="text/css">
+a { fill:blue; text-decoration: underline; }
+</style>
     <defs>
         <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="mx-gradient-dddddd-1-3d5565-1-s-0">
             <stop offset="0%" style="stop-color:#dddddd"/>
@@ -128,34 +131,12 @@
 	</g>
 	<g id="unga68">
 		<rect x="988" y="245" width="303" height="130" rx="20" ry="20" fill="#e6e6e6" stroke="#000000" pointer-events="none"/>
-		<!--<g font-size="12px">
-			<text x="995" y="297" fill="#171717" font-family="Helvetica" font-weight="bold">1st Committee of the General Assembly (Security)</text>
-		</g>
-		<g font-size="12px">
-			<text x="1008" y="323" fill="#171717" font-family="Helvetica" font-weight="bold">2nd Committee of the General Assembly (WSIS)</text>
-		</g>
-		<g font-size="12px">
-			<text x="1015" y="351" fill="#171717" font-family="Helvetica" font-weight="bold">3rd Committee of the General Assembly (HR)</text>
-		</g>
-		<g font-size="12px">
-			<text x="1076" y="265" fill="#0F0F0F" font-family="Helvetica" font-weight="bold">68th UN GA</text>
-		</g>-->
-		<g transform="translate(990,265)" text-anchor="middle" font-size="12px">
-		    <switch>
-			<foreignObject pointer-events="all" width="303" height="130" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-			    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 12px; vertical-align: top; width: 303px; white-space: normal; font-weight: bold; text-align: center;"><a href="http://unctad.org/en/PublicationsLibrary/ares67d195_en.pdf">68th UN GA</a></div>
-			</foreignObject>
-			<text x="63" y="617" fill="#000000" font-family="Helvetica">[Object]</text>
-		    </switch>
-		</g>
-		<g transform="translate(990,290)" text-anchor="middle" font-size="12px">
-		    <switch>
-			<foreignObject pointer-events="all" width="303" height="130" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-			    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 2; vertical-align: top; width: 303px; white-space: normal; font-weight: bold; text-align: center;"><a href="http://unctad.org/en/PublicationsLibrary/ares67d195_en.pdf">1st Committee of the General Assembly (Security) 2nd Committee of the General Assembly (WSIS) 3rd Committee of the General Assembly (HR)</a></div>
-			</foreignObject>
-			<text x="63" y="617" fill="#000000" font-family="Helvetica">[Object]</text>
-		    </switch>
-		</g>
+		<a xlink:href="http://unctad.org/en/PublicationsLibrary/ares67d195_en.pdf">
+			<text x="1076" y="265" font-family="Helvetica" font-weight="bold">68th UN GA</text>
+			<text x="995" y="297"  font-size="12px" font-family="Helvetica" font-weight="bold">1st Committee of the General Assembly (Security)</text>
+			<text x="1008" y="323" font-size="12px" font-family="Helvetica" font-weight="bold">2nd Committee of the General Assembly (WSIS)</text>
+			<text x="1015" y="351" font-size="12px" font-family="Helvetica" font-weight="bold">3rd Committee of the General Assembly (HR)</text>
+		</a>
 	</g>
 
         <rect x="566" y="712" width="50" height="30" rx="5" ry="5" fill="#007fff" stroke="#000000" pointer-events="none"/>
