@@ -979,12 +979,4 @@
                 <text x="48" y="27" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica" font-weight="bold">[Object]</text>
             </switch>
         </g>
-        <g transform="translate(188,73)">
-            <switch>
-                <foreignObject pointer-events="all" width="30" height="23" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(61, 77, 77); line-height: 12px; vertical-align: top; width: 30px; height:23px; white-space: normal; font-weight: bold; text-align: center;"><a style="display:block; width:30px;height:23px" href="http://unctad.org/meetings/en/SessionalDocuments/WGEC_5_2013_Chairs_Report.pdf"></a></div>
-                </foreignObject>
-                <text x="27" y="17" fill="#000000" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
-            </switch>
-        </g>
 </svg>    
