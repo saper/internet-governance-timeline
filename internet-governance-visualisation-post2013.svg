@@ -1,0 +1,1009 @@
+<svg id="svg" xmlns="http://www.w3.org/2000/svg" width="2592px" height="1260px" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" style="background-color: rgb(255, 255, 255); zoom: 1;">
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="mx-gradient-dddddd-1-3d5565-1-s-0">
+            <stop offset="0%" style="stop-color:#dddddd"/>
+            <stop offset="100%" style="stop-color:#3D5565"/>
+        </linearGradient>
+    </defs>
+    <g transform="translate(0.5,0.5)">
+        <rect x="21" y="59" width="280" height="91" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <rect x="988" y="245" width="303" height="130" rx="20" ry="20" fill="#e6e6e6" stroke="#000000" pointer-events="none"/>
+        <rect x="566" y="712" width="50" height="30" rx="5" ry="5" fill="#007fff" stroke="#000000" pointer-events="none"/>
+        <!--<g text-anchor="middle" font-size="10px">
+                <text x="591" y="730" fill="#FFFFFF" font-family="Helvetica" font-weight="bold">WTPF 13</text>
+        </g>-->
+        <g transform="translate(533,720)">
+            <switch>
+                <foreignObject pointer-events="all" width="116" height="26" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 13px; vertical-align: top; width: 116px; white-space: normal; font-weight: bold; text-align: center;"><a style="color:#FFF" href="http://www.itu.int/en/wtpf-13/Pages/default.aspx">WTPF 13</a></div>
+                </foreignObject>
+                <text x="58" y="19" fill="#000000" text-anchor="middle" font-size="11px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <rect x="15" y="1106" width="100" height="54" fill="#503578" stroke="#000000" pointer-events="none"/>
+        <rect x="16" y="727" width="100" height="54" fill="#007fff" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(18,740)">
+            <switch>
+                <foreignObject pointer-events="all" width="96" height="28" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 14px; vertical-align: top; width: 96px; white-space: normal; font-weight: bold; text-align: center;">ITU <br />process</div>
+                </foreignObject>
+                <text x="48" y="20" fill="#FFFFFF" text-anchor="middle" font-size="12px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <rect x="14" y="605" width="100" height="54" fill="#cce5ff" stroke="#000000" pointer-events="none"/>
+        <rect x="15" y="974" width="100" height="54" fill="#0000cc" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(17,987)">
+            <switch>
+                <foreignObject pointer-events="all" width="96" height="28" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(247, 247, 247); line-height: 14px; vertical-align: top; width: 96px; white-space: normal; font-weight: bold; text-align: center;">IGF <br />process</div>
+                </foreignObject>
+                <text x="48" y="20" fill="#F7F7F7" text-anchor="middle" font-size="12px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <path d="M 228 213 C 228 212 229 211 231 211 L 318 211 L 327 218 C 327 218 327 219 327 219 L 318 226 L 231 226 C 229 226 228 225 228 223 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
+        <g text-anchor="middle" font-size="8px"/>
+        <g text-anchor="middle" font-size="8px">
+            <text x="273" y="220" fill="#ffffff" font-family="Helvetica">Feb</text>
+
+        </g>
+        <rect x="241" y="186" width="30" height="20" fill="none" stroke="none" pointer-events="none"/>
+        <g font-size="12px">
+            <text x="243" y="199" fill="#000000" font-family="Helvetica" font-weight="bold">2013</text>
+        </g>
+        <rect x="1333" y="178" width="30" height="20" fill="none" stroke="none" pointer-events="none"/>
+        <g font-size="12px">
+            <text x="1335" y="191" fill="#000000" font-family="Helvetica" font-weight="bold">2014</text>
+        </g>
+        <rect x="2531" y="178" width="30" height="20" fill="none" stroke="none" pointer-events="none"/>
+        <g font-size="12px">
+            <text x="2533" y="191" fill="#000000" font-family="Helvetica" font-weight="bold">2015</text>
+        </g>
+        <rect x="575" y="465" width="50" height="30" rx="5" ry="5" fill="#999999" stroke="#000000" pointer-events="none"/>
+        <!--<g text-anchor="middle" font-size="10px">
+                <text x="600" y="477" fill="#000000" font-family="Helvetica" font-weight="bold">WGEC</text>
+                <text x="600" y="489" fill="#000000" font-family="Helvetica" font-weight="bold">May 30-31</text>
+        </g>-->
+        <g transform="translate(575,465)">
+            <switch>
+                <foreignObject pointer-events="all" width="53" height="24" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 12px; vertical-align: top; width: 53px; white-space: normal; font-weight: bold; text-align: center;"><a href="http://unctad.org/meetings/en/SessionalDocuments/WGEC_5_2013_Chairs_Report.pdf">WGEC May 30-31</a></div>
+                </foreignObject>
+                <text x="27" y="17" fill="#000000" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <rect x="48" y="378" width="30" height="20" fill="none" stroke="none" pointer-events="none"/>
+        <rect x="16" y="207" width="71" height="39" fill="none" stroke="none" pointer-events="none"/>
+        <g font-size="12px">
+            <text x="18" y="220" fill="#000000" font-family="Helvetica" font-weight="bold">INSTITUTIONS</text>
+        </g>
+        <rect x="278" y="996" width="50" height="40" rx="6" ry="6" fill="#0000cc" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(280,998)">
+            <switch>
+                <foreignObject pointer-events="all" width="46" height="36" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 12px; vertical-align: top; width: 46px; white-space: normal; font-weight: bold; text-align: center;">MAG Mtg Feb 28- Mar 1</div>
+                </foreignObject>
+                <text x="23" y="23" fill="#FFFFFF" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <rect x="544" y="993" width="54" height="40" rx="6" ry="6" fill="#0000cc" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(546,1001)">
+            <switch>
+                <foreignObject pointer-events="all" width="50" height="24" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 12px; vertical-align: top; width: 50px; white-space: normal; font-weight: bold; text-align: center;">MAG Mtg May 21-23</div>
+                </foreignObject>
+                <text x="25" y="17" fill="#FFFFFF" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <rect x="1071" y="974" width="134" height="76" rx="11" ry="11" fill="#0000cc" stroke="#000000" pointer-events="none"/>
+        <!--<g text-anchor="middle" font-size="10px">
+                <text x="1138" y="1009" fill="#FFFFFF" font-family="Helvetica" font-weight="bold">IGF</text>
+                <text x="1138" y="1021" fill="#FFFFFF" font-family="Helvetica" font-weight="bold">Oct 22-25</text>
+        </g>-->
+        <g transform="translate(1090,1000)">
+            <switch>
+                <foreignObject pointer-events="all" width="100" height="24" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 12px; vertical-align: top; width: 100px; white-space: normal; font-weight: bold; text-align: center;"><a style="color:#FFF" href="http://www.intgovforum.org/cms/component/content/article/121-preparatory-process/1278-2013-calendar">IGF<br />Oct 22-25</a></div>
+                </foreignObject>
+                <text x="25" y="17" fill="#FFFFFF" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <path d="M 328 1016 L 538 1014" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 543 1014 L 536 1018 L 538 1014 L 536 1011 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 598 1013 L 1065 1012" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1070 1012 L 1063 1016 L 1065 1012 L 1063 1009 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="51" y="448" width="30" height="20" fill="none" stroke="none" pointer-events="none"/>
+        <g text-anchor="middle" font-size="12px">
+            <text x="66" y="461" fill="#FFFFFF" font-family="Helvetica" font-weight="bold">UNCTAD/</text>
+            <text x="66" y="475" fill="#FFFFFF" font-family="Helvetica" font-weight="bold">ECOSOC</text>
+            <text x="66" y="489" fill="#FFFFFF" font-family="Helvetica" font-weight="bold">CSTD process</text>
+        </g>
+        <rect x="49" y="518" width="27" height="20" fill="none" stroke="none" pointer-events="none"/>
+        <g text-anchor="middle" font-size="12px">
+            <text x="63" y="531" fill="#FFFFFF" font-family="Helvetica" font-weight="bold">UNITED </text>
+            <text x="63" y="545" fill="#FFFFFF" font-family="Helvetica" font-weight="bold">NATIONS</text>
+        </g>
+        <rect x="48" y="604" width="30" height="20" fill="none" stroke="none" pointer-events="none"/>
+        <!-- <g text-anchor="middle" font-size="12px">
+        <switch>
+                        <foreignObject pointer-events="all" width="53" height="24" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                                <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 12px; vertical-align: top; width: 53px; white-space: normal; font-weight: bold; text-align: center;"><a href="http://unctad.org/meetings/en/SessionalDocuments/CSTD_2013_DraftRes_WSIS.pdf">WSIS process UNESCO/ITU</a></div>
+                        </foreignObject>
+                <text x="63" y="617" fill="#000000" font-family="Helvetica">[Object]</text>
+                <text x="63" y="631" fill="#000000" font-family="Helvetica"></text>
+                </switch>
+        </g>-->
+
+        <g transform="translate(13,610)" text-anchor="middle" font-size="12px">
+            <switch>
+                <foreignObject pointer-events="all" width="100" height="29" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 12px; vertical-align: top; width: 100px; white-space: normal; font-weight: bold; text-align: center;"><a href="http://www.itu.int/wsis/review/inc/docs/WSIS10_Visioning_Challenge-V4.pdf">WSIS process UNESCO/ITU </a></div>
+                </foreignObject>
+                <text x="63" y="617" fill="#000000" font-family="Helvetica">[Object]</text>
+            </switch>
+        </g>
+        <g transform="translate(13,635)" text-anchor="middle" font-size="9px">
+            <switch>
+                <foreignObject pointer-events="all" width="100" height="53" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 9px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 12px; vertical-align: top; width: 100px; white-space: normal; font-weight: bold; text-align: center;"><a href="http://www.itu.int/wsis/review/inc/docs/WSIS10_Visioning_Challenge-V4.pdf">Visioning Challenges Document</a></div>
+                </foreignObject>
+                <text x="63" y="617" fill="#000000" font-family="Helvetica">[Object]</text>
+            </switch>
+        </g>
+        <rect x="53" y="1125" width="30" height="28" fill="#503578" stroke="none" pointer-events="none"/>
+        <g text-anchor="middle" font-size="12px">
+            <text x="68" y="1138" fill="#FFFFFF" font-family="Helvetica">ICANN</text>
+            <text x="68" y="1152" fill="#FFFFFF" font-family="Helvetica">process</text>
+        </g>
+        <rect x="558" y="600" width="65" height="50" rx="8" ry="8" fill="#cce5ff" stroke="#000000" pointer-events="none"/>
+        <!--<g text-anchor="middle" font-size="10px">
+                <text x="591" y="622" fill="#000000" font-family="Helvetica" font-weight="bold">WSIS</text>
+                <text x="591" y="634" fill="#000000" font-family="Helvetica" font-weight="bold">Forum 2013</text>
+        </g>-->
+        <g transform="translate(560,615)" text-anchor="middle" font-size="10px">
+            <switch>
+                <foreignObject pointer-events="all" width="60" height="40" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 12px; vertical-align: top; width: 60px; white-space: normal; font-weight: bold; text-align: center;"><a href="http://www.itu.int/wsis/implementation/2013/forum/">WSIS Forum 2013</a></div>
+                </foreignObject>
+                <text x="63" y="617" fill="#000000" font-family="Helvetica">[Object]</text>
+            </switch>
+        </g>
+        <path d="M -18 222 L 38 222" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" transform="rotate(90,10,222)" pointer-events="none"/>
+        <rect x="1580" y="732" width="104" height="58" rx="9" ry="9" fill="#007fff" stroke="#000000" pointer-events="none"/>
+        <!--<g text-anchor="middle" font-size="10px">
+                <text x="1632" y="757" fill="#FFFFFF" font-family="Helvetica" font-weight="bold">WTDC</text>
+                <text x="1632" y="769" fill="#FFFFFF" font-family="Helvetica" font-weight="bold">March 30 - April 11</text>
+        </g>-->
+        <g transform="translate(1583,745)" text-anchor="middle" font-size="10px">
+            <switch>
+                <foreignObject pointer-events="all" width="100" height="40" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 12px; vertical-align: top; width: 100px; white-space: normal; font-weight: bold; text-align: center;"><a style="color:#FFF" href="http://www.itu.int/en/wtpf-13/Pages/default.aspx">WTDC<br />March 30 - April 11</a></div>
+                </foreignObject>
+                <text x="63" y="617" fill="#000000" font-family="Helvetica">[Object]</text>
+            </switch>
+        </g>
+        <path d="M 616 727 L 1622 727 Q 1632 727 1632 726 L 1632 725" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 1632 730 L 1629 723 L 1632 725 L 1636 723 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="2228" y="710" width="170" height="100" rx="15" ry="15" fill="#007fff" stroke="#000000" pointer-events="none"/>
+        <!--<g text-anchor="middle" font-size="10px">
+                <text x="2313" y="757" fill="#FFFFFF" font-family="Helvetica" font-weight="bold">ITU Plenipot</text>
+                <text x="2313" y="769" fill="#FFFFFF" font-family="Helvetica" font-weight="bold">Oct 19 - Nov 6</text>
+        </g>-->
+        <g transform="translate(2265,745)" text-anchor="middle" font-size="10px">
+            <switch>
+                <foreignObject pointer-events="all" width="100" height="40" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 12px; vertical-align: top; width: 100px; white-space: normal; font-weight: bold; text-align: center;"><a style="color:#FFF" href="http://www.itu.int/en/wtpf-13/Pages/default.aspx">ITU Plenipot<br />Oct 19 - Nov 6</a></div>
+                </foreignObject>
+                <text x="63" y="617" fill="#000000" font-family="Helvetica">[Object]</text>
+            </switch>
+        </g>
+        <path d="M 1834 843 Q 2313 843 2313 843 Q 2313 843 2313 843 Q 2313 843 2313 816" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 2313 811 L 2317 818 L 2313 816 L 2310 818 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="50" y="635" width="30" height="20" fill="none" stroke="none" pointer-events="none"/>
+        <!--<g text-anchor="middle" font-size="8px">
+                <text x="65" y="644" fill="#000000" font-family="Helvetica">Visioning Challenges </text>
+                <text x="65" y="654" fill="#000000" font-family="Helvetica">Document</text>
+        </g>-->
+        <rect x="1154" y="460" width="64" height="41" rx="6" ry="6" fill="#999999" stroke="#000000" pointer-events="none"/>
+        <g text-anchor="middle" font-size="10px">
+            <text x="1186" y="477" fill="#121212" font-family="Helvetica" font-weight="bold">WGEC</text>
+            <text x="1186" y="489" fill="#121212" font-family="Helvetica" font-weight="bold">Nov 6-8 </text>
+        </g>
+        <rect x="20" y="155" width="30" height="23" fill="none" stroke="none" pointer-events="none"/>
+        <g font-size="12px">
+            <text x="22" y="168" fill="#000000" font-family="Helvetica" font-weight="bold">** Right Click in each (not all yet) box and go for "open link" to see event's agendas and report </text>
+        </g>
+        <rect x="6" y="2" width="30" height="20" fill="none" stroke="none" pointer-events="none"/>
+        <g font-size="24px">
+            <text x="8" y="27" fill="#000000" font-family="Helvetica" font-weight="bold">Internet Governance Processes towards WSIS+10 / post-15</text>
+        </g>
+        <path d="M 104 1001 L 171 1001" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" transform="rotate(90,137,1001)" pointer-events="none"/>
+        <path d="M 0 435 L 270 435" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" transform="rotate(90,135,435)" pointer-events="none"/>
+        <path d="M 104 633 L 171 633" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" transform="rotate(90,137,633)" pointer-events="none"/>
+        <path d="M 32 814 L 244 814" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" transform="rotate(90,138,814)" pointer-events="none"/>
+        <path d="M 106 1134 L 173 1134" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" transform="rotate(90,139,1134)" pointer-events="none"/>
+        <rect x="2211" y="267" width="167" height="76" rx="11" ry="11" fill="#e6e6e6" stroke="#000000" pointer-events="none"/>
+        <g text-anchor="middle" font-size="10px">
+            <text x="2295" y="308" fill="#121212" font-family="Helvetica" font-weight="bold">69th UN GA</text>
+        </g>
+        <rect x="1074" y="648" width="57" height="40" rx="6" ry="6" fill="#cce5ff" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(1076,656)">
+            <switch>
+                <foreignObject pointer-events="all" width="53" height="24" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 12px; vertical-align: top; width: 53px; white-space: normal; font-weight: bold; text-align: center;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;background-color:#CCE5FF;">Phase 2<br />Oct 7-8</div>
+                    </div>
+                </foreignObject>
+                <text x="27" y="17" fill="#000000" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <rect x="1291" y="651" width="53" height="40" rx="6" ry="6" fill="#cce5ff" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(1293,659)">
+            <switch>
+                <foreignObject pointer-events="all" width="49" height="24" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 12px; vertical-align: top; width: 49px; white-space: normal; font-weight: bold; text-align: center;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;background-color:#CCE5FF;">Phase 3<br />Dec 16-17</div>
+                    </div>
+                </foreignObject>
+                <text x="25" y="17" fill="#000000" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <rect x="1455" y="651" width="61" height="39" rx="6" ry="6" fill="#cce5ff" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(1457,658)">
+            <switch>
+                <foreignObject pointer-events="all" width="57" height="24" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 12px; vertical-align: top; width: 57px; white-space: normal; font-weight: bold; text-align: center;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;background-color:#CCE5FF;">Phase 4 <br />Feb 17-18</div>
+                    </div>
+                </foreignObject>
+                <text x="29" y="17" fill="#000000" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <path d="M 328 214 C 328 213 329 211 331 211 L 418 211 L 427 218 C 427 219 427 219 427 220 L 418 226 L 331 226 C 329 226 328 225 328 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/><g text-anchor="middle" font-size="8px"/>
+        <g text-anchor="middle" font-size="8px">
+            <text x="373" y="221" fill="#ffffff" font-family="Helvetica">Mar</text>
+        </g>
+        <path d="M 428 214 C 428 213 429 211 431 211 L 518 211 L 527 218 C 527 219 527 219 527 220 L 518 226 L 431 226 C 429 226 428 225 428 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/><g text-anchor="middle" font-size="8px"/>
+        <g text-anchor="middle" font-size="8px">
+            <text x="473" y="221" fill="#ffffff" font-family="Helvetica">April</text>
+        </g>
+        <path d="M 531 214 C 531 213 532 211 533 211 L 621 211 L 630 218 C 630 219 630 219 630 220 L 621 226 L 533 226 C 532 226 531 225 531 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/><g text-anchor="middle" font-size="8px"/>
+        <g text-anchor="middle" font-size="8px">
+            <text x="576" y="221" fill="#ffffff" font-family="Helvetica">May</text>
+        </g>
+        <path d="M 633 214 C 633 213 634 211 636 211 L 723 211 L 732 218 C 732 219 732 219 732 220 L 723 226 L 636 226 C 634 226 633 225 633 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/><g text-anchor="middle" font-size="8px"/>
+        <g text-anchor="middle" font-size="8px">
+            <text x="678" y="221" fill="#ffffff" font-family="Helvetica">June</text>
+        </g>
+        <path d="M 733 214 C 733 213 734 211 736 211 L 823 211 L 832 218 C 832 219 832 219 832 220 L 823 226 L 736 226 C 734 226 733 225 733 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/><g text-anchor="middle" font-size="8px"/>
+        <g text-anchor="middle" font-size="8px">
+            <text x="778" y="221" fill="#ffffff" font-family="Helvetica">July</text>
+        </g>
+        <path d="M 833 214 C 833 213 834 211 836 211 L 923 211 L 932 218 C 932 219 932 219 932 220 L 923 226 L 836 226 C 834 226 833 225 833 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
+        <g text-anchor="middle" font-size="8px"/>
+        <g text-anchor="middle" font-size="8px">
+            <text x="878" y="221" fill="#ffffff" font-family="Helvetica">Aug</text>
+        </g>
+        <path d="M 933 214 C 933 213 934 211 936 211 L 1023 211 L 1032 218 C 1032 219 1032 219 1032 220 L 1023 226 L 936 226 C 934 226 933 225 933 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
+        <g text-anchor="middle" font-size="8px"/>
+        <g text-anchor="middle" font-size="8px">
+            <text x="978" y="221" fill="#ffffff" font-family="Helvetica">Sept</text>
+        </g>
+        <path d="M 1033 214 C 1033 213 1034 211 1036 211 L 1123 211 L 1132 218 C 1132 219 1132 219 1132 220 L 1123 226 L 1036 226 C 1034 226 1033 225 1033 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
+        <g text-anchor="middle" font-size="8px"/>
+        <g text-anchor="middle" font-size="8px">
+            <text x="1078" y="221" fill="#ffffff" font-family="Helvetica">Oct</text>
+        </g>
+        <path d="M 1133 214 C 1133 213 1134 211 1136 211 L 1223 211 L 1232 218 C 1232 219 1232 219 1232 220 L 1223 226 L 1136 226 C 1134 226 1133 225 1133 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
+        <g text-anchor="middle" font-size="8px"/>
+        <g text-anchor="middle" font-size="8px">
+            <text x="1178" y="221" fill="#ffffff" font-family="Helvetica">Nov</text>
+        </g>
+        <path d="M 1233 213 C 1233 212 1234 211 1236 211 L 1323 211 L 1332 218 C 1332 218 1332 219 1332 219 L 1323 226 L 1236 226 C 1234 226 1233 225 1233 223 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
+        <g text-anchor="middle" font-size="8px"/>
+        <g text-anchor="middle" font-size="8px">
+            <text x="1278" y="220" fill="#ffffff" font-family="Helvetica">Dec</text>
+        </g>
+        <path d="M 1333 213 C 1333 212 1334 211 1336 211 L 1423 211 L 1432 218 C 1432 218 1432 219 1432 219 L 1423 226 L 1336 226 C 1334 226 1333 225 1333 223 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
+        <g text-anchor="middle" font-size="8px"/>
+        <g text-anchor="middle" font-size="8px">
+            <text x="1378" y="220" fill="#ffffff" font-family="Helvetica">Jan</text>
+        </g>
+        <path d="M 1433 213 C 1433 212 1434 211 1436 211 L 1523 211 L 1532 218 C 1532 218 1532 219 1532 219 L 1523 226 L 1436 226 C 1434 226 1433 225 1433 223 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
+        <g text-anchor="middle" font-size="8px"/>
+        <g text-anchor="middle" font-size="8px">
+            <text x="1478" y="220" fill="#ffffff" font-family="Helvetica">Feb</text>
+        </g>
+        <path d="M 1533 213 C 1533 212 1534 211 1536 211 L 1623 211 L 1632 218 C 1632 218 1632 219 1632 219 L 1623 226 L 1536 226 C 1534 226 1533 225 1533 223 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
+        <g text-anchor="middle" font-size="8px"/>
+        <g text-anchor="middle" font-size="8px">
+            <text x="1578" y="220" fill="#ffffff" font-family="Helvetica">Mar</text>
+        </g>
+        <path d="M 1633 214 C 1633 213 1634 211 1636 211 L 1723 211 L 1732 218 C 1732 219 1732 219 1732 220 L 1723 226 L 1636 226 C 1634 226 1633 225 1633 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
+        <g text-anchor="middle" font-size="8px"/>
+        <g text-anchor="middle" font-size="8px">
+            <text x="1678" y="221" fill="#ffffff" font-family="Helvetica">April</text>
+        </g>
+        <path d="M 1733 214 C 1733 213 1734 211 1736 211 L 1823 211 L 1832 218 C 1832 219 1832 219 1832 220 L 1823 226 L 1736 226 C 1734 226 1733 225 1733 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
+        <g text-anchor="middle" font-size="8px"/>
+        <g text-anchor="middle" font-size="8px">
+            <text x="1778" y="221" fill="#ffffff" font-family="Helvetica">May</text>
+        </g>
+        <path d="M 1833 214 C 1833 213 1834 211 1836 211 L 1923 211 L 1932 218 C 1932 219 1932 219 1932 220 L 1923 226 L 1836 226 C 1834 226 1833 225 1833 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
+        <g text-anchor="middle" font-size="8px"/>
+        <g text-anchor="middle" font-size="8px">
+            <text x="1878" y="221" fill="#ffffff" font-family="Helvetica">June</text>
+        </g>
+        <path d="M 1933 214 C 1933 213 1934 211 1936 211 L 2023 211 L 2032 218 C 2032 219 2032 219 2032 220 L 2023 226 L 1936 226 C 1934 226 1933 225 1933 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
+        <g text-anchor="middle" font-size="8px"/>
+        <g text-anchor="middle" font-size="8px">
+            <text x="1978" y="221" fill="#ffffff" font-family="Helvetica">July</text>
+        </g>
+        <path d="M 2033 214 C 2033 213 2034 211 2036 211 L 2123 211 L 2132 218 C 2132 219 2132 219 2132 220 L 2123 226 L 2036 226 C 2034 226 2033 225 2033 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/>
+        <g text-anchor="middle" font-size="8px"/>
+        <g text-anchor="middle" font-size="8px">
+            <text x="2078" y="221" fill="#ffffff" font-family="Helvetica">Aug</text>
+        </g>
+        <path d="M 2133 213 C 2133 212 2134 211 2136 211 L 2223 211 L 2232 218 C 2232 218 2232 219 2232 219 L 2223 226 L 2136 226 C 2134 226 2133 225 2133 223 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/><g text-anchor="middle" font-size="8px"/><g text-anchor="middle" font-size="8px"><text x="2178" y="220" fill="#ffffff" font-family="Helvetica">Sept</text>
+        </g>
+        <path d="M 2233 214 C 2233 213 2234 211 2236 211 L 2323 211 L 2332 218 C 2332 219 2332 219 2332 220 L 2323 226 L 2236 226 C 2234 226 2233 225 2233 224 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/><g text-anchor="middle" font-size="8px"/><g text-anchor="middle" font-size="8px"><text x="2278" y="221" fill="#ffffff" font-family="Helvetica">Oct</text>
+        </g>
+        <path d="M 2333 213 C 2333 212 2334 211 2336 211 L 2423 211 L 2432 218 C 2432 218 2432 219 2432 219 L 2423 226 L 2336 226 C 2334 226 2333 225 2333 223 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/><g text-anchor="middle" font-size="8px"/><g text-anchor="middle" font-size="8px"><text x="2378" y="220" fill="#ffffff" font-family="Helvetica">Nov</text>
+        </g>
+        <path d="M 2433 213 C 2433 212 2434 211 2436 211 L 2523 211 L 2532 218 C 2532 218 2532 219 2532 219 L 2523 226 L 2436 226 C 2434 226 2433 225 2433 223 Z" fill="url(#mx-gradient-dddddd-1-3d5565-1-s-0)" stroke="none" pointer-events="none"/><g text-anchor="middle" font-size="8px"/><g text-anchor="middle" font-size="8px"><text x="2478" y="220" fill="#ffffff" font-family="Helvetica">Dec</text>
+        </g>
+        <path d="M 817 670 L 1068 670" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1073 670 L 1066 673 L 1068 670 L 1066 666 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1131 670 L 1285 670" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1290 670 L 1283 673 L 1285 670 L 1283 666 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1344 670 L 1449 670" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1454 670 L 1447 673 L 1449 670 L 1447 666 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1596 670 L 1608 670" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1613 670 L 1606 674 L 1608 670 L 1606 667 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><rect x="478" y="1130" width="50" height="30" rx="5" ry="5" fill="#3d1b8c" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(480,1133)">
+            <switch>
+                <foreignObject pointer-events="all" width="46" height="24" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 12px; vertical-align: top; width: 46px; white-space: normal; font-weight: bold; text-align: center;"><a style="color:#FFF" href="http://www.itu.int/en/wtpf-13/Pages/default.aspx">Beijing Apr 7-11</a></div>
+                </foreignObject>
+                <text x="23" y="17" fill="#FFFFFF" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <path d="M 528 1145 L 805 1145" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="1883" y="1125" width="58" height="40" rx="6" ry="6" fill="#3d1b8c" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(1885,1133)">
+            <switch>
+                <foreignObject pointer-events="all" width="54" height="24" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 12px; vertical-align: top; width: 54px; white-space: normal; font-weight: bold; text-align: center;"><a style="color:#FFF" href="http://www.itu.int/en/wtpf-13/Pages/default.aspx">London June 22-26</a></div>
+                </foreignObject>
+                <text x="27" y="17" fill="#FFFFFF" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <rect x="657" y="824" width="66" height="43" rx="6" ry="6" fill="#007fff" stroke="#000000" pointer-events="none"/>
+        <!--<g text-anchor="middle" font-size="10px">
+                <text x="690" y="836" fill="#FFFFFF" font-family="Helvetica" font-weight="bold">ITU </text>
+                <text x="690" y="848" fill="#FFFFFF" font-family="Helvetica" font-weight="bold">Council '13</text>
+                <text x="690" y="860" fill="#FFFFFF" font-family="Helvetica" font-weight="bold">Jun 11-21</text>
+        </g>-->
+        <g transform="translate(660,825)">
+            <switch>
+                <foreignObject pointer-events="all" width="54" height="35" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 12px; vertical-align: top; width: 54px; white-space: normal; font-weight: bold; text-align: center;"><a style="color:#FFF" href="http://www.itu.int/en/council/Pages/2013documents.aspx">ITU Council '13 Jun 11-21</a></div>
+                </foreignObject>
+                <text x="27" y="17" fill="#FFFFFF" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <rect x="1741" y="817" width="93" height="52" rx="8" ry="8" fill="#007fff" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(1743,831)">
+            <switch>
+                <foreignObject pointer-events="all" width="89" height="24" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 12px; vertical-align: top; width: 89px; white-space: normal; font-weight: bold; text-align: center;"><a style="color:#FFF" href="http://www.itu.int/en/council/Pages/2013documents.aspx">ITU Council '14 May  6-15</a></div>
+                </foreignObject>
+                <text x="45" y="17" fill="#FFFFFF" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <path d="M 723 845 L 1735 843" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1740 843 L 1733 846 L 1735 843 L 1733 839 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1684 760 L 1778 761 Q 1788 761 1788 771 L 1788 775 Q 1788 780 1788 790 L 1788 810" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 1788 815 L 1784 808 L 1788 810 L 1791 808 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 818 1144 L 1878 1147" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="805" y="1130" width="50" height="30" rx="5" ry="5" fill="#3d1b8c" stroke="#000000" pointer-events="none"/>
+        <!--<g text-anchor="middle" font-size="10px">
+                <text x="830" y="1142" fill="#FFFFFF" font-family="Helvetica" font-weight="bold">Durban</text>
+                <text x="830" y="1154" fill="#FFFFFF" font-family="Helvetica" font-weight="bold">Jul 14-18</text>
+        </g>-->
+        <g transform="translate(805,1130)" text-anchor="middle" font-size="10px">
+            <switch>
+                <foreignObject pointer-events="all" width="50" height="40" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 12px; vertical-align: top; width: 50px; white-space: normal; font-weight: bold; text-align: center;"><a style="color:#FFF" href="http://www.itu.int/en/wtpf-13/Pages/default.aspx">Durban Jul 14-18</a></div>
+                </foreignObject>
+                <text x="63" y="617" fill="#000000" font-family="Helvetica">[Object]</text>
+            </switch>
+        </g>
+        <rect x="230" y="603" width="73" height="41" rx="6" ry="6" fill="#cce5ff" stroke="#000000" pointer-events="none"/>
+        <!--<g text-anchor="middle" font-size="10px">
+                <text x="267" y="615" fill="#000000" font-family="Helvetica" font-weight="bold">WSIS+10</text>
+                <text x="267" y="627" fill="#000000" font-family="Helvetica" font-weight="bold">review</text>
+                <text x="267" y="639" fill="#000000" font-family="Helvetica" font-weight="bold">Feb 25-27</text>
+        </g>-->
+        <g transform="translate(240,605)" text-anchor="middle" font-size="10px">
+            <switch>
+                <foreignObject pointer-events="all" width="50" height="40" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 12px; vertical-align: top; width: 50px; white-space: normal; font-weight: bold; text-align: center;"><a href="http://www.unesco.org/new/en/communication-and-information/flagship-project-activities/unesco-and-wsis/wsis-10-review-meeting/">WSIS+10 review Feb 25-27</a></div>
+                </foreignObject>
+                <text x="63" y="617" fill="#000000" font-family="Helvetica">[Object]</text>
+            </switch>
+        </g>
+        <path d="M 303 625 L 552 625" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 557 625 L 550 628 L 552 625 L 550 621 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="1639" y="591" width="80" height="50" rx="8" ry="8" fill="#cce5ff" stroke="#000000" pointer-events="none"/>
+        <!--<g text-anchor="middle" font-size="10px">
+                <text x="1679" y="601" fill="#000000" font-family="Helvetica" font-weight="bold">WSIS </text>
+                <text x="1679" y="613" fill="#000000" font-family="Helvetica" font-weight="bold">high-level </text>
+                <text x="1679" y="625" fill="#000000" font-family="Helvetica" font-weight="bold">April 13-18</text>
+                <text x="1679" y="637" fill="#000000" font-family="Helvetica" font-weight="bold">Sharm el Sheik</text>
+        </g>-->
+        <g transform="translate(1620,590)">
+            <switch>
+                <foreignObject pointer-events="all" width="116" height="50" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 13px; vertical-align: top; width: 116px; white-space: normal; font-weight: bold; text-align: center;"><a href="http://www.unesco.org/new/en/communication-and-information/flagship-project-activities/unesco-and-wsis/wsis-10-review-meeting/">WSIS<br />high-level<br />April 13-18<br />Sharm el Sheik</a></div>
+                </foreignObject>
+                <text x="58" y="19" fill="#000000" text-anchor="middle" font-size="11px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <rect x="2511" y="591" width="80" height="50" rx="8" ry="8" fill="#990000" stroke="#000000" pointer-events="none"/>
+        <!--<g text-anchor="middle" font-size="18px">
+                <text x="2551" y="623" fill="#FFFFFF" font-family="Helvetica" font-weight="bold">?</text>
+        </g>-->
+        <g transform="translate(2505,610)">
+            <switch>
+                <foreignObject pointer-events="all" width="96" height="36" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 18px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 12px; vertical-align: top; width: 96px; white-space: normal; font-weight: bold; text-align: center;"><a style="color:#FFF" href="http://www.unesco.org/new/en/communication-and-information/flagship-project-activities/unesco-and-wsis/wsis-10-review-meeting/">?</a></div>
+                </foreignObject>
+                <text x="48" y="23" fill="#000000" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <rect x="1920" y="356" width="100" height="47" rx="7" ry="7" fill="#999999" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(1922,361)">
+            <switch>
+                <foreignObject pointer-events="all" width="96" height="36" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 12px; vertical-align: top; width: 96px; white-space: normal; font-weight: bold; text-align: center;"><a href="http://unctad.org/meetings/en/SessionalDocuments/CSTD_2013_DraftRes_WSIS.pdf">ECOSOC Substative Session 2014 (NY)</a></div>
+                </foreignObject>
+                <text x="48" y="23" fill="#000000" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <rect x="1247" y="405" width="78" height="52" rx="8" ry="8" fill="#999999" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(1249,413)">
+            <switch>
+                <foreignObject pointer-events="all" width="74" height="36" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 12px; vertical-align: top; width: 74px; white-space: normal; font-weight: bold; text-align: center;"><a href="http://unctad.org/meetings/en/SessionalDocuments/CSTD_2013_DraftRes_WSIS.pdf">CSTD Inter-sessional (dates TBD)</a></div>
+                </foreignObject>
+                <text x="37" y="23" fill="#000000" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <rect x="1769" y="412" width="65" height="38" rx="6" ry="6" fill="#999999" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(1771,419)">
+            <switch>
+                <foreignObject pointer-events="all" width="61" height="24" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(10, 10, 10); line-height: 12px; vertical-align: top; width: 61px; white-space: normal; font-weight: bold; text-align: center;"><a href="http://unctad.org/meetings/en/SessionalDocuments/CSTD_2013_DraftRes_WSIS.pdf">CSTD 17 (dates TBD)</a></div>
+                </foreignObject>
+                <text x="31" y="17" fill="#0A0A0A" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <rect x="1487" y="993" width="58" height="37" rx="6" ry="6" fill="#0000cc" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(1489,993)">
+            <switch>
+                <foreignObject pointer-events="all" width="54" height="36" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 12px; vertical-align: top; width: 54px; white-space: normal; font-weight: bold; text-align: center;"><a style="color:#FFF" href="http://www.intgovforum.org/cms/component/content/article/121-preparatory-process/1278-2013-calendar">MAG mtg (dates TBD)</a></div>
+                </foreignObject>
+                <text x="27" y="23" fill="#FFFFFF" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <rect x="1750" y="992" width="58" height="37" rx="6" ry="6" fill="#0000cc" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(1752,992)">
+            <switch>
+                <foreignObject pointer-events="all" width="54" height="36" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 12px; vertical-align: top; width: 54px; white-space: normal; font-weight: bold; text-align: center;"><a style="color:#FFF" href="http://www.intgovforum.org/cms/component/content/article/121-preparatory-process/1278-2013-calendar">MAG mtg (dates TBD)</a></div>
+                </foreignObject>
+                <text x="27" y="23" fill="#FFFFFF" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <rect x="2308" y="991" width="63" height="38" rx="6" ry="6" fill="#0000cc" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(2310,998)">
+            <switch>
+                <foreignObject pointer-events="all" width="59" height="24" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 12px; vertical-align: top; width: 59px; white-space: normal; font-weight: bold; text-align: center;"><a style="color:#FFF" href="http://www.intgovforum.org/cms/component/content/article/121-preparatory-process/1278-2013-calendar">IGF 2014 (dates TBD)</a></div>
+                </foreignObject>
+                <text x="30" y="17" fill="#FFFFFF" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <path d="M 1205 1012 L 1481 1012" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1486 1012 L 1479 1015 L 1481 1012 L 1479 1008 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1545 1011 L 1744 1011" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 1749 1011 L 1742 1014 L 1744 1011 L 1742 1007 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1808 1010 L 2302 1010" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 2307 1010 L 2300 1014 L 2302 1010 L 2300 1007 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="629" y="1065" width="63" height="35" rx="5" ry="5" fill="#0000cc" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(631,1071)">
+            <switch>
+                <foreignObject pointer-events="all" width="59" height="24" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 12px; vertical-align: top; width: 59px; white-space: normal; font-weight: bold; text-align: center;">EuroDig June 20-21</div>
+                </foreignObject>
+                <text x="30" y="17" fill="#FFFFFF" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <rect x="806" y="1070" width="50" height="33" rx="5" ry="5" fill="#0000cc" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(808,1075)">
+            <switch>
+                <foreignObject pointer-events="all" width="46" height="24" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 12px; vertical-align: top; width: 46px; white-space: normal; font-weight: bold; text-align: center;">SAIGF Aug 5-7</div>
+                </foreignObject>
+                <text x="23" y="17" fill="#FFFFFF" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <rect x="870" y="1058" width="47" height="45" rx="7" ry="7" fill="#0000cc" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(873,1062)">
+            <switch>
+                <foreignObject pointer-events="all" width="43" height="36" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 12px; vertical-align: top; width: 43px; white-space: normal; font-weight: bold; text-align: center;">LACIGF Aug 27-29</div>
+                </foreignObject>
+                <text x="22" y="23" fill="#FFFFFF" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <rect x="934" y="1063" width="70" height="44" rx="7" ry="7" fill="#0000cc" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(936,1067)">
+            <switch>
+                <foreignObject pointer-events="all" width="66" height="36" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 12px; vertical-align: top; width: 66px; white-space: normal; font-weight: bold; text-align: center;">APrIGF Sept 3-5  AfIGF Sept 24-26</div>
+                </foreignObject>
+                <text x="33" y="23" fill="#FFFFFF" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <rect x="1020" y="1060" width="40" height="46" rx="6" ry="6" fill="#0000cc" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(1022,1065)">
+            <switch>
+                <foreignObject pointer-events="all" width="36" height="36" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 12px; vertical-align: top; width: 36px; white-space: normal; font-weight: bold; text-align: center;">Arab IGF  Oct 1-3</div>
+                </foreignObject>
+                <text x="18" y="23" fill="#FFFFFF" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <rect x="602" y="911" width="177" height="17" rx="3" ry="3" fill="#007fff" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(604,914)">
+            <switch>
+                <foreignObject pointer-events="all" width="173" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 12px; vertical-align: top; width: 173px; white-space: normal; font-weight: bold; text-align: center;"><a style="color:#FFF" href="http://www.itu.int/en/council/Pages/2013documents.aspx">CWG-WSIS May 30-31/June 20</a></div>
+                </foreignObject>
+                <text x="87" y="11" fill="#FFFFFF" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <rect x="1185" y="858" width="79" height="40" rx="6" ry="6" fill="#007fff" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(1188,866)">
+            <switch>
+                <foreignObject pointer-events="all" width="75" height="24" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 12px; vertical-align: top; width: 75px; white-space: normal; font-weight: bold; text-align: center;"><a style="color:#FFF" href="http://www.itu.int/en/council/Pages/2013documents.aspx">CWG-Internet Nov 11-12</a></div>
+                </foreignObject>
+                <text x="38" y="17" fill="#FFFFFF" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <rect x="1415" y="459" width="40" height="40" rx="6" ry="6" fill="#999999" stroke="#000000" pointer-events="none"/>
+        <g text-anchor="middle" font-size="10px">
+            <text x="1435" y="470" fill="#121212" font-family="Helvetica" font-weight="bold">WGEC</text>
+            <text x="1435" y="482" fill="#121212" font-family="Helvetica" font-weight="bold">(dates </text>
+            <text x="1435" y="494" fill="#121212" font-family="Helvetica" font-weight="bold">TBD)</text>
+        </g>
+        <rect x="15" y="1187" width="272" height="44" fill="none" stroke="none" pointer-events="none"/>
+        <g font-size="12px">
+            <text x="17" y="1200" fill="#000000" font-family="Helvetica">BROWN, Deborah; KASPAR, Lea; VARON, Joana</text>
+            <text x="17" y="1228" fill="#000000" font-family="Helvetica">This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. </text>
+            <text x="17" y="1256" fill="#000000" font-family="Helvetica">CC BY-NC-SA </text>
+        </g>
+        <rect x="1216" y="1126" width="67" height="34" rx="5" ry="5" fill="#3d1b8c" stroke="#000000" pointer-events="none"/>
+        <!--<g text-anchor="middle" font-size="10px">
+                <text x="1250" y="1140" fill="#FFFFFF" font-family="Helvetica" font-weight="bold">Buenos Aires</text>
+                <text x="1250" y="1152" fill="#FFFFFF" font-family="Helvetica" font-weight="bold">Nov 17-21</text>
+        </g>-->
+        <g transform="translate(1200,1130)">
+            <switch>
+                <foreignObject pointer-events="all" width="100" height="24" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 12px; vertical-align: top; width: 100px; white-space: normal; font-weight: bold; text-align: center;"><a style="color:#FFF" href="http://www.itu.int/en/wtpf-13/Pages/default.aspx">Buenos Aires<br />Nov 17-21</a></div>
+                </foreignObject>
+                <text x="29" y="17" fill="#FFFFFF" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <rect x="1596" y="1125" width="61" height="36" rx="5" ry="5" fill="#3d1b8c" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(1598,1131)">
+            <switch>
+                <foreignObject pointer-events="all" width="57" height="24" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 12px; vertical-align: top; width: 57px; white-space: normal; font-weight: bold; text-align: center;"><a style="color:#FFF" href="http://www.itu.int/en/wtpf-13/Pages/default.aspx">Singapore Mar 23-27</a></div>
+                </foreignObject>
+                <text x="29" y="17" fill="#FFFFFF" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <path d="M 1517 670 L 1528 670" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1533 670 L 1526 674 L 1528 670 L 1526 667 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="736" y="361" width="97" height="50" rx="7" ry="7" fill="#999999" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(738,362)">
+            <switch>
+                <foreignObject pointer-events="all" width="93" height="48" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 12px; vertical-align: top; width: 93px; white-space: normal; font-weight: bold; text-align: center;"><a href="http://unctad.org/meetings/en/SessionalDocuments/CSTD_2013_DraftRes_WSIS.pdf">ECOSOC Substantive Session 2013 Jul 1-25</a></div>
+                </foreignObject>
+                <text x="47" y="29" fill="#000000" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <rect x="633" y="417" width="57" height="29" rx="4" ry="4" fill="#b3b3b3" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(635,419)">
+            <switch>
+                <foreignObject pointer-events="all" width="53" height="24" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 12px; vertical-align: top; width: 53px; white-space: normal; font-weight: bold; text-align: center;"><a href="http://unctad.org/meetings/en/SessionalDocuments/CSTD_2013_DraftRes_WSIS.pdf">CSTD 16 June 3-7</a></div>
+                </foreignObject>
+                <text x="27" y="17" fill="#000000" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <path d="M 8 178 L 8 178" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="714" y="1063" width="61" height="40" rx="6" ry="6" fill="#0000cc" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(716,1071)">
+            <switch>
+                <foreignObject pointer-events="all" width="57" height="24" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 12px; vertical-align: top; width: 57px; white-space: normal; font-weight: bold; text-align: center;">West Africa IGF Jul 3-5</div>
+                </foreignObject>
+                <text x="29" y="17" fill="#FFFFFF" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <rect x="993" y="284" width="127" height="13" fill="none" stroke="none" pointer-events="none"/>
+        <!--<g font-size="12px">
+                <text x="995" y="297" fill="#171717" font-family="Helvetica" font-weight="bold">1st Committee of the General Assembly (Security)</text>
+        </g>
+        <rect x="1006" y="310" width="124" height="14" fill="none" stroke="none" pointer-events="none"/>
+        <g font-size="12px">
+                <text x="1008" y="323" fill="#171717" font-family="Helvetica" font-weight="bold">2nd Committee of the General Assembly (WSIS)</text>
+        </g>
+        <rect x="1013" y="338" width="124" height="18" fill="none" stroke="none" pointer-events="none"/>
+        <g font-size="12px">
+                <text x="1015" y="351" fill="#171717" font-family="Helvetica" font-weight="bold">3rd Committee of the General Assembly (HR)</text>
+        </g>
+        <rect x="1074" y="252" width="75" height="20" fill="none" stroke="none" pointer-events="none"/>
+        <g font-size="12px">
+                <text x="1076" y="265" fill="#0F0F0F" font-family="Helvetica" font-weight="bold">68th UN GA</text>
+        </g>-->
+        <g transform="translate(990,265)" text-anchor="middle" font-size="12px">
+            <switch>
+                <foreignObject pointer-events="all" width="303" height="130" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 12px; vertical-align: top; width: 303px; white-space: normal; font-weight: bold; text-align: center;"><a href="http://unctad.org/en/PublicationsLibrary/ares67d195_en.pdf">68th UN GA</a></div>
+                </foreignObject>
+                <text x="63" y="617" fill="#000000" font-family="Helvetica">[Object]</text>
+            </switch>
+        </g>
+        <g transform="translate(990,290)" text-anchor="middle" font-size="12px">
+            <switch>
+                <foreignObject pointer-events="all" width="303" height="130" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 2; vertical-align: top; width: 303px; white-space: normal; font-weight: bold; text-align: center;"><a href="http://unctad.org/en/PublicationsLibrary/ares67d195_en.pdf">1st Committee of the General Assembly (Security) 2nd Committee of the General Assembly (WSIS) 3rd Committee of the General Assembly (HR)</a></div>
+                </foreignObject>
+                <text x="63" y="617" fill="#000000" font-family="Helvetica">[Object]</text>
+            </switch>
+        </g>
+        <rect x="1332" y="896" width="58" height="49" rx="7" ry="7" fill="#007fff" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(1334,908)">
+            <switch>
+                <foreignObject pointer-events="all" width="54" height="24" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 12px; vertical-align: top; width: 54px; white-space: normal; font-weight: bold; text-align: center;"><a style="color:#FFF" href="http://www.itu.int/en/council/Pages/2013documents.aspx">CWG WSIS??</a></div>
+                </foreignObject>
+                <text x="27" y="17" fill="#FFFFFF" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <path d="M 779 920 L 1326 920" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1331 920 L 1324 924 L 1326 920 L 1324 917 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1218 480 L 1409 479" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1414 479 L 1407 482 L 1409 479 L 1407 475 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 600 465 Q 600 460 600 445 Q 600 430 627 431" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 632 431 L 625 434 L 627 431 L 625 427 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 662 417 Q 662 386 681 386 Q 700 386 729 386" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 735 386 L 728 389 L 729 386 L 728 382 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 784 361 Q 780 317 825 317 Q 870 317 1000 314" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 1005 314 L 998 318 L 1000 314 L 998 311 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 690 431 L 1240 431" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1246 431 L 1239 434 L 1240 431 L 1239 427 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1325 431 L 1763 431" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1768 431 L 1761 434 L 1763 431 L 1761 427 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 833 386 L 1914 379" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1919 379 L 1912 383 L 1914 379 L 1912 376 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1834 431 Q 1920 427 1940 427 Q 1960 427 1968 409" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 1970 404 L 1970 412 L 1968 409 L 1964 409 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 2020 379 Q 2210 376 2253 376 Q 2295 376 2295 349" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 2295 344 L 2298 351 L 2295 349 L 2291 351 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="1291" y="312" width="168" height="25" fill="#ffffff" stroke="#000000" stroke-dasharray="3 3" pointer-events="none"/>		
+        <g transform="translate(1293,318)">
+            <switch>
+                <foreignObject pointer-events="all" width="164" height="14" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(14, 0, 28); line-height: 14px; vertical-align: top; width: 164px; white-space: normal; font-weight: bold; text-align: center;">Resolution on WSIS+10 </div>
+                </foreignObject>
+                <text x="82" y="13" fill="#0E001C" text-anchor="middle" font-size="12px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <path d="M 1291 310 L 2205 305" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 2210 305 L 2203 309 L 2205 305 L 2203 302 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+
+        <rect x="900" y="455" width="92" height="50" fill="#ffffff" stroke="#000000" stroke-dasharray="3 3" pointer-events="none"/>
+        <g transform="translate(902,459)">
+            <switch>
+                <foreignObject pointer-events="all" width="88" height="42" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 14px; vertical-align: top; width: 88px; white-space: normal; font-weight: bold; text-align: center;">WGEC Questionnaire due Aug 31</div>
+                </foreignObject>
+                <text x="44" y="27" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <path d="M 625 480 L 894 480" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 899 480 L 892 484 L 894 480 L 892 477 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="1050" y="454" width="83" height="53" fill="#ffffff" stroke="#000000" stroke-dasharray="3 3" pointer-events="none"/>
+        <g transform="translate(1052,454)">
+            <switch>
+                <foreignObject pointer-events="all" width="79" height="52" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 13px; vertical-align: top; width: 79px; white-space: normal; font-weight: bold; text-align: center;">WGEC Questionnaire Summary Oct 15</div>
+                </foreignObject>
+                <text x="40" y="32" fill="#000000" text-anchor="middle" font-size="11px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <path d="M 992 480 L 1044 480" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1049 480 L 1042 483 L 1044 480 L 1042 476 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1133 480 L 1148 480" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1153 480 L 1146 484 L 1148 480 L 1146 477 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="1551" y="453" width="120" height="53" fill="#ffffff" stroke="#000000" stroke-dasharray="3 3" pointer-events="none"/>
+        <g transform="translate(1553,459)">
+            <switch>
+                <foreignObject pointer-events="all" width="116" height="39" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 13px; vertical-align: top; width: 116px; white-space: normal; font-weight: bold; text-align: center;">WGEC Chair's Summary &amp; Recommendations</div>
+                </foreignObject>
+                <text x="58" y="25" fill="#000000" text-anchor="middle" font-size="11px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <path d="M 1455 479 L 1545 479" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1550 479 L 1543 482 L 1545 479 L 1543 475 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1671 479 Q 1730 479 1766 479 Q 1802 479 1802 456" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 1802 451 L 1805 458 L 1802 456 L 1798 458 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="207" y="662" width="120" height="39" fill="#ffffff" stroke="#000000" stroke-dasharray="3 3" pointer-events="none"/>
+        <g transform="translate(209,668)">
+            <switch>
+                <foreignObject pointer-events="all" width="116" height="26" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 13px; vertical-align: top; width: 116px; white-space: normal; font-weight: bold; text-align: center;"><a href="http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/CI/CI/pdf/wsis/WSIS_10_Event/wsis10_final_statement_en.pdf">WSIS+10 Paris Final Statement</a></div>
+                </foreignObject>
+                <text x="58" y="19" fill="#000000" text-anchor="middle" font-size="11px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <path d="M 267 662 L 267 644" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="531" y="664" width="120" height="35" fill="#ffffff" stroke="#000000" stroke-dasharray="3 3" pointer-events="none"/>
+        <g transform="translate(533,674)">
+            <switch>
+                <foreignObject pointer-events="all" width="116" height="13" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 13px; vertical-align: top; width: 116px; white-space: normal; font-weight: bold; text-align: center;"><a href="http://www.itu.int/wsis/implementation/2013/forum/documents/outcomes.html">Outcome Document</a></div>
+                </foreignObject>
+                <text x="58" y="12" fill="#000000" text-anchor="middle" font-size="11px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <path d="M 591 664 L 591 650" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="723" y="629" width="120" height="80" fill="#ffffff" stroke="#000000" stroke-dasharray="3 3" pointer-events="none"/>
+        <g transform="translate(725,630)">
+            <switch>
+                <foreignObject pointer-events="all" width="116" height="78" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 13px; vertical-align: top; width: 116px; white-space: normal; font-weight: bold; text-align: center;"><a href="http://www.itu.int/council/groups/wsis/docs/June-2013/WSIS10-MPP-Preparatory-Process.pdf">WSIS+10 Multistakeholder Preparatory Platform (MPP) <br />Phase 1- Launch (July 1)</a></div>
+                </foreignObject>
+                <text x="58" y="45" fill="#000000" text-anchor="middle" font-size="11px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <rect x="724" y="849" width="120" height="29" fill="#ffffff" stroke="#000000" stroke-dasharray="3 3" pointer-events="none"/>
+        <g transform="translate(726,850)">
+            <switch>
+                <foreignObject pointer-events="all" width="116" height="26" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 13px; vertical-align: top; width: 116px; white-space: normal; font-weight: bold; text-align: center;"><a href="http://files.wcitleaks.org/public/S13-CL-C-0108!!MSW-E.pdf">Resolution 1334 (updated 2013)</a></div>
+                </foreignObject>
+                <text x="58" y="19" fill="#000000" text-anchor="middle" font-size="11px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <path d="M 784 849 L 784 715" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 783 710 L 787 717 L 784 715 L 780 717 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="200" y="741" width="80" height="57" rx="8" ry="8" fill="#007fff" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(202,743)">
+            <switch>
+                <foreignObject pointer-events="all" width="76" height="52" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 13px; vertical-align: top; width: 76px; white-space: normal; font-weight: bold; text-align: center;">WTDC prep CIS-<br />Chisinau Feb 19-20</div>
+                </foreignObject>
+                <text x="38" y="32" fill="#FFFFFF" text-anchor="middle" font-size="11px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <rect x="481" y="739" width="79" height="56" rx="8" ry="8" fill="#007fff" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(483,740)">
+            <switch>
+                <foreignObject pointer-events="all" width="75" height="52" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 13px; vertical-align: top; width: 75px; white-space: normal; font-weight: bold; text-align: center;">WTDC prep APT<br />Phnom Phen- Apr 30- May 2</div>
+                </foreignObject>
+                <text x="38" y="32" fill="#FFFFFF" text-anchor="middle" font-size="11px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <rect x="896" y="738" width="84" height="57" rx="9" ry="9" fill="#007fff" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(898,741)">
+            <switch>
+                <foreignObject pointer-events="all" width="80" height="52" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 13px; vertical-align: top; width: 80px; white-space: normal; font-weight: bold; text-align: center;">WTDC prep CITEL Montevideo Aug 20-22</div>
+                </foreignObject>
+                <text x="40" y="32" fill="#FFFFFF" text-anchor="middle" font-size="11px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <rect x="1058" y="739" width="75" height="47" rx="7" ry="7" fill="#007fff" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(1060,743)">
+            <switch>
+                <foreignObject pointer-events="all" width="71" height="39" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 13px; vertical-align: top; width: 71px; white-space: normal; font-weight: bold; text-align: center;">WTDC prep ATU Accra Oct 2-4</div>
+                </foreignObject>
+                <text x="36" y="25" fill="#FFFFFF" text-anchor="middle" font-size="11px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <rect x="1155" y="741" width="75" height="47" rx="7" ry="7" fill="#007fff" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(1157,745)">
+            <switch>
+                <foreignObject pointer-events="all" width="71" height="39" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 13px; vertical-align: top; width: 71px; white-space: normal; font-weight: bold; text-align: center;">WTDC prep Arab Bahrain Oct 29-31</div>
+                </foreignObject>
+                <text x="36" y="25" fill="#FFFFFF" text-anchor="middle" font-size="11px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <rect x="1252" y="732" width="75" height="56" rx="8" ry="8" fill="#007fff" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(1254,734)">
+            <switch>
+                <foreignObject pointer-events="all" width="71" height="52" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 13px; vertical-align: top; width: 71px; white-space: normal; font-weight: bold; text-align: center;">WTDC prep CEPT Belgrade Nov 26-28</div>
+                </foreignObject>
+                <text x="36" y="32" fill="#FFFFFF" text-anchor="middle" font-size="11px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <path d="M 240 810 L 1624 810 Q 1634 810 1634 800 L 1634 795 Q 1634 789 1636 789 L 1638 789" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1633 789 L 1640 786 L 1638 789 L 1640 793 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 521 794 L 521 804" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 521 809 L 517 802 L 521 804 L 524 802 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 240 797 L 240 804" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 240 809 L 237 802 L 240 804 L 244 802 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 938 795 L 938 804" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 938 809 L 935 802 L 938 804 L 942 802 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1096 786 L 1096 804" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1096 809 L 1092 802 L 1096 804 L 1099 802 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1192 788 L 1192 804" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1192 809 L 1189 802 L 1192 804 L 1196 802 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1289 788 L 1289 804" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1289 809 L 1286 802 L 1289 804 L 1293 802 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 660 1120 L 1128 1120 Q 1138 1120 1138 1110 L 1138 1060 Q 1138 1050 1138 1053 L 1138 1056" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 1138 1051 L 1142 1058 L 1138 1056 L 1135 1058 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 661 1100 L 660 1120" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="1 4" pointer-events="none"/>
+        <path d="M 745 1120 L 745 1103" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="1 4" pointer-events="none"/>
+        <path d="M 831 1120 L 831 1103" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 894 1103 L 894 1120" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 969 1107 L 969 1120" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 1040 1120 L 1040 1106" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 591 742 Q 591 800 591 823 Q 591 845 651 845" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 656 845 L 649 849 L 651 845 L 649 842 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="1533" y="640" width="67" height="50" fill="#ffffff" stroke="#000000" stroke-dasharray="3 3" pointer-events="none"/>
+        <g transform="translate(1535,643)">
+            <switch>
+                <foreignObject pointer-events="all" width="63" height="44" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 9px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 11px; vertical-align: top; width: 63px; white-space: normal; font-weight: bold; text-align: center;">Phase 5- Submission of the final drafts (Mar 1)</div>
+                </foreignObject>
+                <text x="32" y="27" fill="#000000" text-anchor="middle" font-size="9px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <rect x="1614" y="645" width="57" height="50" fill="#ffffff" stroke="#000000" stroke-dasharray="3 3" pointer-events="none"/>
+        <g transform="translate(1616,652)">
+            <switch>
+                <foreignObject pointer-events="all" width="53" height="36" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 12px; vertical-align: top; width: 53px; white-space: normal; font-weight: bold; text-align: center;">Phase 6- Final Brief (Mar 12)</div>
+                </foreignObject>
+                <text x="27" y="23" fill="#000000" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <path d="M 1670 670 L 1689 670 Q 1699 670 1699 660 L 1699 647" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1699 642 L 1703 649 L 1699 647 L 1696 649 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="1719" y="624" width="292" height="38" fill="#ffffff" stroke="#000000" stroke-dasharray="3 3" pointer-events="none"/>
+        <g transform="translate(1721,630)">
+            <switch>
+                <foreignObject pointer-events="all" width="288" height="24" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 12px; vertical-align: top; width: 288px; white-space: normal; font-weight: bold; text-align: center;">WSIS+10 Statement on Implementation of WSIS Outcomes<br />WSIS+10 Vision for Beyond 2015</div>
+                </foreignObject>
+                <text x="144" y="17" fill="#000000" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <path d="M 690 911 L 690 873" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 690 868 L 694 875 L 690 873 L 687 875 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="1414" y="703" width="289" height="23" fill="#ffffff" stroke="#000000" stroke-dasharray="3 3" pointer-events="none"/>
+        <g transform="translate(1416,697)">
+            <switch>
+                <foreignObject pointer-events="all" width="285" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 9px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 11px; vertical-align: top; width: 285px; white-space: normal; font-weight: bold; text-align: center;">Outcome of Phase 4: Drafts of WSIS+10 Statement on Implementation of WSIS Outcomes/Vision for WSIS Beyond 2015</div>
+                </foreignObject>
+                <text x="143" y="21" fill="#000000" text-anchor="middle" font-size="9px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <path d="M 1486 703 L 1486 689" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1138 974 L 1140 382" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 1140 377 L 1143 384 L 1140 382 L 1136 384 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 690 867 Q 690 878 700 878 Q 710 878 1179 878" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 1184 878 L 1177 881 L 1179 878 L 1177 874 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1265 878 Q 1680 878 1734 878 Q 1788 878 1788 875" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 1788 870 L 1791 876 L 1788 875 L 1784 877 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1390 920 Q 1720 920 1754 920 Q 1788 920 1788 875" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 1788 870 L 1791 877 L 1788 875 L 1784 877 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="1043" y="880" width="108" height="34" fill="#ffffff" stroke="#000000" stroke-dasharray="3 3" pointer-events="none"/>
+        <g transform="translate(1045,879)">
+            <switch>
+                <foreignObject pointer-events="all" width="104" height="36" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 12px; vertical-align: top; width: 104px; white-space: normal; font-weight: bold; text-align: center;"><a href="http://www.itu.int/en/council/Pages/consultation.aspx">CWG-Internet Online Consultation- Due Oct 10</a></div>
+                </foreignObject>
+                <text x="52" y="23" fill="#000000" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <path d="M 1151 897 Q 1151 897 1180 881" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 1185 878 L 1180 885 L 1180 881 L 1177 878 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1375 337 L 1375 614" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 1375 619 L 1372 612 L 1375 614 L 1379 612 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 621 698 Q 620 760 620 800 Q 620 840 651 844" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 656 845 L 649 847 L 651 844 L 649 840 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 150 386 L 729 386" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 735 386 L 728 389 L 729 386 L 728 382 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 150 310 L 982 310" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 987 310 L 980 314 L 982 310 L 980 307 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 170 1016 L 272 1016" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 277 1016 L 270 1019 L 272 1016 L 270 1012 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 170 1145 L 472 1145" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 477 1145 L 470 1148 L 472 1145 L 470 1141 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 150 431 L 627 431" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 632 431 L 625 435 L 627 431 L 625 428 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1719 616 L 2504 616" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 2510 616 L 2503 620 L 2504 616 L 2503 613 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1719 616 Q 2080 616 2190 608 Q 2300 600 2295 349" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 2295 344 L 2298 351 L 2295 349 L 2291 351 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 2378 305 Q 2551 305 2551 398 Q 2551 490 2551 585" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 2551 590 L 2547 583 L 2551 585 L 2554 583 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="1346" y="731" width="114" height="59" rx="9" ry="9" fill="#007fff" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(1348,730)">
+            <switch>
+                <foreignObject pointer-events="all" width="110" height="60" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 12px; vertical-align: top; width: 110px; white-space: normal; font-weight: bold; text-align: center;"><a style="color:#FFF" href="http://www.itu.int/en/ITU-D/Conferences/TDAG/Pages/default.aspx">Telecommunication Development Advisory Group (TDAG) 18th session Dec 11-3</a></div>
+                </foreignObject>
+                <text x="55" y="35" fill="#FFFFFF" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <path d="M 1403 810 L 1403 796" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 1403 791 L 1406 798 L 1403 796 L 1399 798 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1460 760 L 1574 760" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 1579 760 L 1572 764 L 1574 760 L 1572 757 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="18" y="318" width="100" height="54" fill="#999999" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(20,324)">
+            <switch>
+                <foreignObject pointer-events="all" width="96" height="42" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 14px; vertical-align: top; width: 96px; white-space: normal; font-weight: bold; text-align: center;">UNITED <br />NATIONS<br />GA/ECOSOC</div>
+                </foreignObject>
+                <text x="48" y="27" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <path d="M 30 83 L 60 83" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 65 83 L 58 87 L 60 83 L 58 80 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="188" y="73" width="30" height="23" rx="3" ry="3" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <g transform="translate(188,73)">
+            <switch>
+                <foreignObject pointer-events="all" width="30" height="23" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(61, 77, 77); line-height: 12px; vertical-align: top; width: 30px; height:23px; white-space: normal; font-weight: bold; text-align: center;"><a style="display:block; width:30px;height:23px" href="http://unctad.org/meetings/en/SessionalDocuments/WGEC_5_2013_Chairs_Report.pdf"></a></div>
+                </foreignObject>
+                <text x="27" y="17" fill="#000000" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
+            </switch>
+        </g>
+        <rect x="188" y="113" width="30" height="24" fill="#ffffff" stroke="#000000" stroke-dasharray="3 3" pointer-events="none"/>
+        <rect x="227" y="74" width="26" height="12" fill="none" stroke="none" pointer-events="none"/>
+        <g font-size="12px">
+            <text x="229" y="87" fill="#000000" font-family="Helvetica" font-weight="bold">Meetings</text>
+            <text x="229" y="129" fill="#000000" font-family="Helvetica" font-weight="bold">Documents</text>
+        </g>
+        <rect x="79" y="76" width="26" height="12" fill="none" stroke="none" pointer-events="none"/>
+        <g font-size="12px">
+            <text x="81" y="89" fill="#000000" font-family="Helvetica" font-weight="bold">Direct Relation</text>
+            <text x="81" y="131" fill="#000000" font-family="Helvetica" font-weight="bold">Indirect Relation</text>
+        </g>
+        <path d="M 31 127 L 61 127" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 66 127 L 59 131 L 61 127 L 59 124 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="19" y="42" width="26" height="12" fill="none" stroke="none" pointer-events="none"/>
+        <g font-size="12px">
+            <text x="21" y="55" fill="#000000" font-family="Helvetica" font-weight="bold">Instructions</text>
+        </g>
+    </g>
+</svg>    
