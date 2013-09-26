@@ -70,15 +70,12 @@
             <text x="273" y="220" fill="#ffffff" font-family="Helvetica">Feb</text>
 
         </g>
-        <rect x="241" y="186" width="30" height="20" fill="none" stroke="none" pointer-events="none"/>
         <g font-size="12px">
             <text x="243" y="199" fill="#000000" font-family="Helvetica" font-weight="bold">2013</text>
         </g>
-        <rect x="1333" y="178" width="30" height="20" fill="none" stroke="none" pointer-events="none"/>
         <g font-size="12px">
             <text x="1335" y="191" fill="#000000" font-family="Helvetica" font-weight="bold">2014</text>
         </g>
-        <rect x="2531" y="178" width="30" height="20" fill="none" stroke="none" pointer-events="none"/>
         <g font-size="12px">
             <text x="2533" y="191" fill="#000000" font-family="Helvetica" font-weight="bold">2015</text>
         </g>
@@ -95,8 +92,6 @@
                 <text x="27" y="17" fill="#000000" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
             </switch>
         </g>
-        <rect x="48" y="378" width="30" height="20" fill="none" stroke="none" pointer-events="none"/>
-        <rect x="16" y="207" width="71" height="39" fill="none" stroke="none" pointer-events="none"/>
         <g font-size="12px">
             <text x="18" y="220" fill="#000000" font-family="Helvetica" font-weight="bold">INSTITUTIONS</text>
         </g>
@@ -135,18 +130,15 @@
         <path d="M 543 1014 L 536 1018 L 538 1014 L 536 1011 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
         <path d="M 598 1013 L 1065 1012" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
         <path d="M 1070 1012 L 1063 1016 L 1065 1012 L 1063 1009 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
-        <rect x="51" y="448" width="30" height="20" fill="none" stroke="none" pointer-events="none"/>
         <g text-anchor="middle" font-size="12px">
             <text x="66" y="461" fill="#FFFFFF" font-family="Helvetica" font-weight="bold">UNCTAD/</text>
             <text x="66" y="475" fill="#FFFFFF" font-family="Helvetica" font-weight="bold">ECOSOC</text>
             <text x="66" y="489" fill="#FFFFFF" font-family="Helvetica" font-weight="bold">CSTD process</text>
         </g>
-        <rect x="49" y="518" width="27" height="20" fill="none" stroke="none" pointer-events="none"/>
         <g text-anchor="middle" font-size="12px">
             <text x="63" y="531" fill="#FFFFFF" font-family="Helvetica" font-weight="bold">UNITED </text>
             <text x="63" y="545" fill="#FFFFFF" font-family="Helvetica" font-weight="bold">NATIONS</text>
         </g>
-        <rect x="48" y="604" width="30" height="20" fill="none" stroke="none" pointer-events="none"/>
         <!-- <g text-anchor="middle" font-size="12px">
         <switch>
                         <foreignObject pointer-events="all" width="53" height="24" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
@@ -222,7 +214,6 @@
         </g>
         <path d="M 1834 843 Q 2313 843 2313 843 Q 2313 843 2313 843 Q 2313 843 2313 816" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
         <path d="M 2313 811 L 2317 818 L 2313 816 L 2310 818 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
-        <rect x="50" y="635" width="30" height="20" fill="none" stroke="none" pointer-events="none"/>
         <!--<g text-anchor="middle" font-size="8px">
                 <text x="65" y="644" fill="#000000" font-family="Helvetica">Visioning Challenges </text>
                 <text x="65" y="654" fill="#000000" font-family="Helvetica">Document</text>
@@ -232,8 +223,6 @@
             <text x="1186" y="477" fill="#121212" font-family="Helvetica" font-weight="bold">WGEC</text>
             <text x="1186" y="489" fill="#121212" font-family="Helvetica" font-weight="bold">Nov 6-8 </text>
         </g>
-        <rect x="20" y="155" width="30" height="23" fill="none" stroke="none" pointer-events="none"/>
-        <rect x="6" y="2" width="30" height="20" fill="none" stroke="none" pointer-events="none"/>
         <path d="M 104 1001 L 171 1001" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" transform="rotate(90,137,1001)" pointer-events="none"/>
         <path d="M 0 435 L 270 435" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" transform="rotate(90,135,435)" pointer-events="none"/>
         <path d="M 104 633 L 171 633" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" transform="rotate(90,137,633)" pointer-events="none"/>
@@ -607,7 +596,6 @@
             <text x="1435" y="482" fill="#121212" font-family="Helvetica" font-weight="bold">(dates </text>
             <text x="1435" y="494" fill="#121212" font-family="Helvetica" font-weight="bold">TBD)</text>
         </g>
-        <rect x="15" y="1187" width="272" height="44" fill="none" stroke="none" pointer-events="none"/>
         <g font-size="12px">
             <text x="17" y="1200" fill="#000000" font-family="Helvetica">BROWN, Deborah; KASPAR, Lea; VARON, Joana</text>
             <text x="17" y="1228" fill="#000000" font-family="Helvetica">This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. </text>
@@ -665,19 +653,15 @@
                 <text x="29" y="17" fill="#FFFFFF" text-anchor="middle" font-size="10px" font-family="Helvetica" font-weight="bold">[Object]</text>
             </switch>
         </g>
-        <rect x="993" y="284" width="127" height="13" fill="none" stroke="none" pointer-events="none"/>
         <!--<g font-size="12px">
                 <text x="995" y="297" fill="#171717" font-family="Helvetica" font-weight="bold">1st Committee of the General Assembly (Security)</text>
         </g>
-        <rect x="1006" y="310" width="124" height="14" fill="none" stroke="none" pointer-events="none"/>
         <g font-size="12px">
                 <text x="1008" y="323" fill="#171717" font-family="Helvetica" font-weight="bold">2nd Committee of the General Assembly (WSIS)</text>
         </g>
-        <rect x="1013" y="338" width="124" height="18" fill="none" stroke="none" pointer-events="none"/>
         <g font-size="12px">
                 <text x="1015" y="351" fill="#171717" font-family="Helvetica" font-weight="bold">3rd Committee of the General Assembly (HR)</text>
         </g>
-        <rect x="1074" y="252" width="75" height="20" fill="none" stroke="none" pointer-events="none"/>
         <g font-size="12px">
                 <text x="1076" y="265" fill="#0F0F0F" font-family="Helvetica" font-weight="bold">68th UN GA</text>
         </g>-->
